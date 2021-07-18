@@ -11,3 +11,4 @@ If you like this project, please leave me a star. ★
 |977|[squares-of-a-sorted-array](https://leetcode-cn.com/problems/squares-of-a-sorted-array)|[Solution](./p0004.py) |Easy|Array, Two Pointers, Sort|
 |189|[rotate-array](https://leetcode-cn.com/problems/rotate-array)|[Solution](./p0005.py) |Medium|Array, Two Pointers, Math|
 |283|[move-zeroes](https://leetcode-cn.com/problems/move-zeroes)|[Solution](./p0006.py) |Easy|Array, Two Pointers|
+|167|[two-sum-ii-input-array-is-sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)|[Solution](./p0007.py) |Easy|Array, Two Pointers, Binary Search|
