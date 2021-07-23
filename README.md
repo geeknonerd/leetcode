@@ -16,3 +16,4 @@ If you like this project, please leave me a star. ★
 |557|[reverse-words-in-a-string-iii](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii)|[Solution](reverse/reverse_words_in_a_string_iii.py) |Easy|Two Pointers, String|
 |876|[middle-of-the-linked-list](https://leetcode-cn.com/problems/middle-of-the-linked-list)|[Solution](search/middle_of_the_linked_list.py) |Easy|LinkedList, Two Pointers|
 |19|[remove-nth-node-from-end-of-list](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)|[Solution](search/remove_nth_node_from_end_of_list.py) |Medium|LinkedList, Two Pointers|
+|3|[longest-substring-without-repeating-characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)|[Solution](search/longest_substring_without_repeating_characters.py) |Medium|HashTable, String, Sliding Window|
