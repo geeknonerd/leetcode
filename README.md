@@ -18,4 +18,5 @@ If you like this project, please leave me a star. ★
 |19|[remove-nth-node-from-end-of-list](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)|[Solution](search/remove_nth_node_from_end_of_list.py) |Medium|LinkedList, Two Pointers|
 |3|[longest-substring-without-repeating-characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)|[Solution](search/longest_substring_without_repeating_characters.py) |Medium|HashTable, String, Sliding Window|
 |567|[permutation-in-string](https://leetcode-cn.com/problems/permutation-in-string)|[Solution](permutation/permutation_in_string.py) |Medium|HashTable, Two Pointers, String|
-|733|[flood-fill](https://leetcode-cn.com/problems/flood-fill)|[Solution](fill/flood_fill.py) |Easy|DFS, BFS, Array|
+|733|[flood-fill](https://leetcode-cn.com/problems/flood-fill)|[Solution](math/flood_fill.py) |Easy|DFS, BFS, Array|
+|695|[max-area-of-island](https://leetcode-cn.com/problems/max-area-of-island)|[Solution](math/max_area_of_island.py) |Medium|DFS, BFS|
