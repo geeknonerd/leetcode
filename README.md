@@ -20,3 +20,4 @@ If you like this project, please leave me a star. ★
 |567|[permutation-in-string](https://leetcode-cn.com/problems/permutation-in-string)|[Solution](permutation/permutation_in_string.py) |Medium|HashTable, Two Pointers, String|
 |733|[flood-fill](https://leetcode-cn.com/problems/flood-fill)|[Solution](math/flood_fill.py) |Easy|DFS, BFS, Array|
 |695|[max-area-of-island](https://leetcode-cn.com/problems/max-area-of-island)|[Solution](math/max_area_of_island.py) |Medium|DFS, BFS|
+|617|[merge-two-binary-trees](https://leetcode-cn.com/problems/merge-two-binary-trees)|[Solution](merge/merge_two_binary_trees.py) |Medium|Tree, DFS, BFS|
