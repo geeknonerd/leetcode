@@ -36,6 +36,7 @@ mat 中至少有一个 0 
 来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/01-matrix
 """
+from collections import deque
 from typing import List
 
 
@@ -46,7 +47,7 @@ class Solution:
         dest = []
         zeros = []
         seen = set()
-        queue = []
+        queue = deque()
         for i in range(m):
             row = []
             for j in range(n):
@@ -59,7 +60,7 @@ class Solution:
         # seen = set(zeros)
         # queue = zeros[:]
         while queue:
-            i, j = queue.pop(0)
+            i, j = queue.popleft()
             for ni, nj in ((i-1, j), (i+1, j), (i, j-1), (i, j+1)):
                 if 0 <= ni < m and 0 <= nj < n and (ni, nj) not in seen:
                     dest[ni][nj] = dest[i][j] + 1
