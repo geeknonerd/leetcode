@@ -42,14 +42,22 @@ from typing import List
 class Solution:
     def updateMatrix(self, mat: List[List[int]]) -> List[List[int]]:
         m, n = len(mat), len(mat[0])
-        dest = [[0]*n for _ in range(m)]
+        # dest = [[0]*n for _ in range(m)]
+        dest = []
         zeros = []
+        seen = set()
+        queue = []
         for i in range(m):
+            row = []
             for j in range(n):
+                row.append(0)
                 if mat[i][j] == 0:
                     zeros.append((i, j))
-        seen = set(zeros)
-        queue = zeros[:]
+                    seen.add((i, j))
+                    queue.append((i, j))
+            dest.append(row)
+        # seen = set(zeros)
+        # queue = zeros[:]
         while queue:
             i, j = queue.pop(0)
             for ni, nj in ((i-1, j), (i+1, j), (i, j-1), (i, j+1)):
