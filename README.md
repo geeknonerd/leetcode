@@ -1,4 +1,4 @@
-# [LeetCode](https://leetcode-cn.com/) [![License](https://img.shields.io/badge/license-GPL_3.0-blue.svg)](LICENSE.md) ![Language](https://img.shields.io/badge/language-Python-blue.svg) 
+# [LeetCode](https://leetcode-cn.com/) [![License](https://img.shields.io/badge/license-GPL_3.0-blue.svg)](LICENSE.md) ![Language](https://img.shields.io/badge/language-Python3-blue.svg) 
 
 If you like this project, please leave me a star. ★
 ## Algorithms
@@ -23,3 +23,4 @@ If you like this project, please leave me a star. ★
 |617|[merge-two-binary-trees](https://leetcode-cn.com/problems/merge-two-binary-trees)|[Solution](merge/merge_two_binary_trees.py) |Easy|Tree, DFS, BFS|
 |116|[populating-next-right-pointers-in-each-node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node)|[Solution](math/populating_next_right_pointers_in_each_node.py) |Medium|Tree, DFS, BFS|
 |542|[01-matrix](https://leetcode-cn.com/problems/01-matrix)|[Solution](math/01_matrix.py) |Medium|BFS, Array, DP|
+|994|[rotting-oranges](https://leetcode-cn.com/problems/rotting-oranges)|[Solution](math/rotting_oranges.py) |Medium|BFS, Array, Matrix|
