@@ -22,3 +22,4 @@ If you like this project, please leave me a star. ★
 |695|[max-area-of-island](https://leetcode-cn.com/problems/max-area-of-island)|[Solution](math/max_area_of_island.py) |Medium|DFS, BFS|
 |617|[merge-two-binary-trees](https://leetcode-cn.com/problems/merge-two-binary-trees)|[Solution](merge/merge_two_binary_trees.py) |Easy|Tree, DFS, BFS|
 |116|[populating-next-right-pointers-in-each-node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node)|[Solution](math/populating_next_right_pointers_in_each_node.py) |Medium|Tree, DFS, BFS|
+|542|[01-matrix](https://leetcode-cn.com/problems/01-matrix)|[Solution](math/01_matrix.py) |Medium|BFS, Array, DP|
