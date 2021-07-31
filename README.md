@@ -24,3 +24,4 @@ If you like this project, please leave me a star. ★
 |116|[populating-next-right-pointers-in-each-node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node)|[Solution](math/populating_next_right_pointers_in_each_node.py) |Medium|Tree, DFS, BFS|
 |542|[01-matrix](https://leetcode-cn.com/problems/01-matrix)|[Solution](math/01_matrix.py) |Medium|BFS, Array, DP|
 |994|[rotting-oranges](https://leetcode-cn.com/problems/rotting-oranges)|[Solution](math/rotting_oranges.py) |Medium|BFS, Array, Matrix|
+|21|[merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists)|[Solution](merge/merge_two_sorted_lists.py) |Easy|Recursion, LinkedList|
