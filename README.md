@@ -18,10 +18,11 @@ If you like this project, please leave me a star. ★
 |19|[remove-nth-node-from-end-of-list](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)|[Solution](search/remove_nth_node_from_end_of_list.py) |Medium|LinkedList, Two Pointers|
 |3|[longest-substring-without-repeating-characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)|[Solution](search/longest_substring_without_repeating_characters.py) |Medium|HashTable, String, Sliding Window|
 |567|[permutation-in-string](https://leetcode-cn.com/problems/permutation-in-string)|[Solution](permutation/permutation_in_string.py) |Medium|HashTable, Two Pointers, String|
-|733|[flood-fill](https://leetcode-cn.com/problems/flood-fill)|[Solution](math/flood_fill.py) |Easy|DFS, BFS, Array|
-|695|[max-area-of-island](https://leetcode-cn.com/problems/max-area-of-island)|[Solution](math/max_area_of_island.py) |Medium|DFS, BFS|
+|733|[flood-fill](https://leetcode-cn.com/problems/flood-fill)|[Solution](smath/flood_fill.py) |Easy|DFS, BFS, Array|
+|695|[max-area-of-island](https://leetcode-cn.com/problems/max-area-of-island)|[Solution](smath/max_area_of_island.py) |Medium|DFS, BFS|
 |617|[merge-two-binary-trees](https://leetcode-cn.com/problems/merge-two-binary-trees)|[Solution](merge/merge_two_binary_trees.py) |Easy|Tree, DFS, BFS|
-|116|[populating-next-right-pointers-in-each-node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node)|[Solution](math/populating_next_right_pointers_in_each_node.py) |Medium|Tree, DFS, BFS|
-|542|[01-matrix](https://leetcode-cn.com/problems/01-matrix)|[Solution](math/01_matrix.py) |Medium|BFS, Array, DP|
-|994|[rotting-oranges](https://leetcode-cn.com/problems/rotting-oranges)|[Solution](math/rotting_oranges.py) |Medium|BFS, Array, Matrix|
+|116|[populating-next-right-pointers-in-each-node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node)|[Solution](smath/populating_next_right_pointers_in_each_node.py) |Medium|Tree, DFS, BFS|
+|542|[01-matrix](https://leetcode-cn.com/problems/01-matrix)|[Solution](smath/01_matrix.py) |Medium|BFS, Array, DP|
+|994|[rotting-oranges](https://leetcode-cn.com/problems/rotting-oranges)|[Solution](smath/rotting_oranges.py) |Medium|BFS, Array, Matrix|
 |21|[merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists)|[Solution](merge/merge_two_sorted_lists.py) |Easy|Recursion, LinkedList|
+|206|[reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list)|[Solution](reverse/reverse_linked_list.py) |Easy|Recursion, LinkedList|
