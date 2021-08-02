@@ -26,3 +26,4 @@ If you like this project, please leave me a star. ★
 |994|[rotting-oranges](https://leetcode-cn.com/problems/rotting-oranges)|[Solution](smath/rotting_oranges.py) |Medium|BFS, Array, Matrix|
 |21|[merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists)|[Solution](merge/merge_two_sorted_lists.py) |Easy|Recursion, LinkedList|
 |206|[reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list)|[Solution](reverse/reverse_linked_list.py) |Easy|Recursion, LinkedList|
+|77|[combinations](https://leetcode-cn.com/problems/combinations)|[Solution](combination/combinations.py) |Medium|Array, Backtracking|
