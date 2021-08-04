@@ -28,3 +28,4 @@ If you like this project, please leave me a star. ★
 |206|[reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list)|[Solution](reverse/reverse_linked_list.py) |Easy|Recursion, LinkedList|
 |77|[combinations](https://leetcode-cn.com/problems/combinations)|[Solution](combination/combinations.py) |Medium|Array, Backtracking|
 |46|[permutations](https://leetcode-cn.com/problems/permutations)|[Solution](permutation/permutations.py) |Medium|Array, Backtracking|
+|784|[letter-case-permutation](https://leetcode-cn.com/problems/letter-case-permutation)|[Solution](permutation/letter_case_permutation.py) |Medium|Bit Manipulation, String, Backtracking|
