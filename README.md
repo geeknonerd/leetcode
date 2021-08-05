@@ -22,10 +22,11 @@ If you like this project, please leave me a star. ★
 |695|[max-area-of-island](https://leetcode-cn.com/problems/max-area-of-island)|[Solution](smath/max_area_of_island.py) |Medium|DFS, BFS|
 |617|[merge-two-binary-trees](https://leetcode-cn.com/problems/merge-two-binary-trees)|[Solution](merge/merge_two_binary_trees.py) |Easy|Tree, DFS, BFS|
 |116|[populating-next-right-pointers-in-each-node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node)|[Solution](smath/populating_next_right_pointers_in_each_node.py) |Medium|Tree, DFS, BFS|
-|542|[01-matrix](https://leetcode-cn.com/problems/01-matrix)|[Solution](smath/01_matrix.py) |Medium|BFS, Array, DP|
+|542|[01-matrix](https://leetcode-cn.com/problems/01-matrix)|[Solution](smath/01_matrix.py) |Medium|BFS, Array, Dynamic Programming|
 |994|[rotting-oranges](https://leetcode-cn.com/problems/rotting-oranges)|[Solution](smath/rotting_oranges.py) |Medium|BFS, Array, Matrix|
 |21|[merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists)|[Solution](merge/merge_two_sorted_lists.py) |Easy|Recursion, LinkedList|
 |206|[reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list)|[Solution](reverse/reverse_linked_list.py) |Easy|Recursion, LinkedList|
 |77|[combinations](https://leetcode-cn.com/problems/combinations)|[Solution](combination/combinations.py) |Medium|Array, Backtracking|
 |46|[permutations](https://leetcode-cn.com/problems/permutations)|[Solution](permutation/permutations.py) |Medium|Array, Backtracking|
 |784|[letter-case-permutation](https://leetcode-cn.com/problems/letter-case-permutation)|[Solution](permutation/letter_case_permutation.py) |Medium|Bit Manipulation, String, Backtracking|
+|70|[climbing-stairs](https://leetcode-cn.com/problems/climbing-stairs)|[Solution](smath/climbing_stairs.py) |Easy|Memory Search, Math, Dynamic Programming|
