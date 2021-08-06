@@ -31,3 +31,4 @@ If you like this project, please leave me a star. ★
 |784|[letter-case-permutation](https://leetcode-cn.com/problems/letter-case-permutation)|[Solution](permutation/letter_case_permutation.py) |Medium|Bit Manipulation, String, Backtracking|
 |70|[climbing-stairs](https://leetcode-cn.com/problems/climbing-stairs)|[Solution](smath/climbing_stairs.py) |Easy|Memory Search, Math, Dynamic Programming|
 |198|[house-robber](https://leetcode-cn.com/problems/house-robber)|[Solution](smath/house_robber.py) |Medium|Array, Dynamic Programming|
+|120|[triangle](https://leetcode-cn.com/problems/triangle)|[Solution](smath/triangle.py) |Medium|Array, Dynamic Programming|
