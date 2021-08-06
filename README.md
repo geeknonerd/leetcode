@@ -30,3 +30,4 @@ If you like this project, please leave me a star. ★
 |46|[permutations](https://leetcode-cn.com/problems/permutations)|[Solution](permutation/permutations.py) |Medium|Array, Backtracking|
 |784|[letter-case-permutation](https://leetcode-cn.com/problems/letter-case-permutation)|[Solution](permutation/letter_case_permutation.py) |Medium|Bit Manipulation, String, Backtracking|
 |70|[climbing-stairs](https://leetcode-cn.com/problems/climbing-stairs)|[Solution](smath/climbing_stairs.py) |Easy|Memory Search, Math, Dynamic Programming|
+|198|[house-robber](https://leetcode-cn.com/problems/house-robber)|[Solution](smath/house_robber.py) |Medium|Array, Dynamic Programming|
