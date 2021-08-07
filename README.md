@@ -32,3 +32,4 @@ If you like this project, please leave me a star. ★
 |70|[climbing-stairs](https://leetcode-cn.com/problems/climbing-stairs)|[Solution](smath/climbing_stairs.py) |Easy|Memory Search, Math, Dynamic Programming|
 |198|[house-robber](https://leetcode-cn.com/problems/house-robber)|[Solution](smath/house_robber.py) |Medium|Array, Dynamic Programming|
 |120|[triangle](https://leetcode-cn.com/problems/triangle)|[Solution](smath/triangle.py) |Medium|Array, Dynamic Programming|
+|231|[power-of-two](https://leetcode-cn.com/problems/power-of-two)|[Solution](smath/power_of_two.py) |Easy|Bit Manipulation, Recursion, Math|
