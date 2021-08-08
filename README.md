@@ -35,3 +35,4 @@ If you like this project, please leave me a star. ★
 |231|[power-of-two](https://leetcode-cn.com/problems/power-of-two)|[Solution](smath/power_of_two.py) |Easy|Bit Manipulation, Recursion, Math|
 |191|[number-of-1-bits](https://leetcode-cn.com/problems/number-of-1-bits)|[Solution](smath/number_of_1_bits.py) |Easy|Bit Manipulation|
 |190|[reverse-bits](https://leetcode-cn.com/problems/reverse-bits)|[Solution](reverse/reverse_bits.py) |Easy|Bit Manipulation, Divide and Conquer|
+|136|[single-number](https://leetcode-cn.com/problems/single-number)|[Solution](smath/single_number.py) |Easy|Bit Manipulation, Array|
