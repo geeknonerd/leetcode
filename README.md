@@ -37,3 +37,4 @@ If you like this project, please leave me a star. ★
 |190|[reverse-bits](https://leetcode-cn.com/problems/reverse-bits)|[Solution](reverse/reverse_bits.py) |Easy|Bit Manipulation, Divide and Conquer|
 |136|[single-number](https://leetcode-cn.com/problems/single-number)|[Solution](smath/single_number.py) |Easy|Bit Manipulation, Array|
 |34|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array)|[Solution](search/find_first_and_last_position_of_element_in_sorted_array.py) |Medium|Array, Binary Search|
+|153|[find-minimum-in-rotated-sorted-array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array)|[Solution](search/find_minimum_in_rotated_sorted_array.py) |Medium|Array, Binary Search|
