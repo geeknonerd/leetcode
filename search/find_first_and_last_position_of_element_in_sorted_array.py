@@ -51,11 +51,14 @@ class Solution:
         return [-1, -1]
 
     def binary_search(self, nums: List[int], target: int, is_lower: bool) -> int:
+        num_len = len(nums)
         left = 0
-        right = len(nums)
-        ans = right
+        right = num_len
+        ans = num_len
         while left <= right:
             mid = (left + right) // 2
+            if mid >= num_len:
+                break
             if nums[mid] > target or (is_lower and nums[mid] >= target):
                 right = mid - 1
                 ans = mid
@@ -78,3 +81,7 @@ if __name__ == '__main__':
     result = solution.searchRange([], 0)
     print(result)
     assert result == [-1, -1]
+
+    result = solution.searchRange([1], 1)
+    print(result)
+    assert result == [0, 0]
