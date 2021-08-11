@@ -39,3 +39,4 @@ If you like this project, please leave me a star. ★
 |34|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array)|[Solution](search/find_first_and_last_position_of_element_in_sorted_array.py) |Medium|Array, Binary Search|
 |153|[find-minimum-in-rotated-sorted-array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array)|[Solution](search/find_minimum_in_rotated_sorted_array.py) |Medium|Array, Binary Search|
 |33|[search-in-rotated-sorted-array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)|[Solution](search/search_in_rotated_sorted_array.py) |Medium|Array, Binary Search|
+|82|[remove-duplicates-from-sorted-list-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)|[Solution](remove/remove_duplicates_from_sorted_list_ii.py) |Medium|LinkedList, Two Pointers|
