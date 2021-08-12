@@ -41,3 +41,4 @@ If you like this project, please leave me a star. ★
 |33|[search-in-rotated-sorted-array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)|[Solution](search/search_in_rotated_sorted_array.py) |Medium|Array, Binary Search|
 |82|[remove-duplicates-from-sorted-list-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)|[Solution](remove/remove_duplicates_from_sorted_list_ii.py) |Medium|LinkedList, Two Pointers|
 |844|[backspace-string-compare](https://leetcode-cn.com/problems/backspace-string-compare)|[Solution](remove/remove_duplicates_from_sorted_list_ii.py) |Easy|Stack, Two Pointers, String, Simulation|
+|986|[interval-list-intersections](https://leetcode-cn.com/problems/interval-list-intersections)|[Solution](smath/interval_list_intersections.py) |Medium|Array, Two Pointers|
