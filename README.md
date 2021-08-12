@@ -40,3 +40,4 @@ If you like this project, please leave me a star. ★
 |153|[find-minimum-in-rotated-sorted-array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array)|[Solution](search/find_minimum_in_rotated_sorted_array.py) |Medium|Array, Binary Search|
 |33|[search-in-rotated-sorted-array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)|[Solution](search/search_in_rotated_sorted_array.py) |Medium|Array, Binary Search|
 |82|[remove-duplicates-from-sorted-list-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)|[Solution](remove/remove_duplicates_from_sorted_list_ii.py) |Medium|LinkedList, Two Pointers|
+|844|[backspace-string-compare](https://leetcode-cn.com/problems/backspace-string-compare)|[Solution](remove/remove_duplicates_from_sorted_list_ii.py) |Easy|Stack, Two Pointers, String, Simulation|
