@@ -42,3 +42,4 @@ If you like this project, please leave me a star. ★
 |82|[remove-duplicates-from-sorted-list-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)|[Solution](remove/remove_duplicates_from_sorted_list_ii.py) |Medium|LinkedList, Two Pointers|
 |844|[backspace-string-compare](https://leetcode-cn.com/problems/backspace-string-compare)|[Solution](remove/remove_duplicates_from_sorted_list_ii.py) |Easy|Stack, Two Pointers, String, Simulation|
 |986|[interval-list-intersections](https://leetcode-cn.com/problems/interval-list-intersections)|[Solution](smath/interval_list_intersections.py) |Medium|Array, Two Pointers|
+|438|[find-all-anagrams-in-a-string](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string)|[Solution](search/find_all_anagrams_in_a_string.py) |Medium|hash-table, String, Sliding Window|
