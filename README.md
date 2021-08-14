@@ -44,3 +44,4 @@ If you like this project, please leave me a star. ★
 |986|[interval-list-intersections](https://leetcode-cn.com/problems/interval-list-intersections)|[Solution](smath/interval_list_intersections.py) |Medium|Array, Two Pointers|
 |438|[find-all-anagrams-in-a-string](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string)|[Solution](search/find_all_anagrams_in_a_string.py) |Medium|hash-table, String, Sliding Window|
 |713|[subarray-product-less-than-k](https://leetcode-cn.com/problems/subarray-product-less-than-k)|[Solution](smath/subarray_product_less_than_k.py) |Medium|Array, Sliding Window|
+|200|[number-of-islands](https://leetcode-cn.com/problems/number-of-islands)|[Solution](smath/number_of_islands.py) |Medium|DFS, BFS|
