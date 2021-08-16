@@ -45,6 +45,6 @@ If you like this project, please leave me a star. ★
 |438|[find-all-anagrams-in-a-string](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string)|[Solution](search/find_all_anagrams_in_a_string.py) |Medium|hash-table, String, Sliding Window|
 |713|[subarray-product-less-than-k](https://leetcode-cn.com/problems/subarray-product-less-than-k)|[Solution](smath/subarray_product_less_than_k.py) |Medium|Array, Sliding Window|
 |200|[number-of-islands](https://leetcode-cn.com/problems/number-of-islands)|[Solution](smath/number_of_islands.py) |Medium|DFS, BFS|
-|200|[number-of-islands](https://leetcode-cn.com/problems/number-of-islands)|[Solution](smath/number_of_islands.py) |Medium|DFS, BFS|
 |117|[populating-next-right-pointers-in-each-node-ii](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii)|[Solution](populating/populating_next_right_pointers_in_each_node_ii.py) |Medium|Tree, DFS, BFS|
 |1091|[shortest-path-in-binary-matrix](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix)|[Solution](path/shortest_path_in_binary_matrix.py) |Medium|BFS, Array, Matrix|
+|78|[subsets](https://leetcode-cn.com/problems/subsets)|[Solution](smath/subsets.py) |Medium|Bit Manipulation, Array, Backtracking|
