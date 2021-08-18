@@ -48,3 +48,4 @@ If you like this project, please leave me a star. ★
 |117|[populating-next-right-pointers-in-each-node-ii](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii)|[Solution](populating/populating_next_right_pointers_in_each_node_ii.py) |Medium|Tree, DFS, BFS|
 |1091|[shortest-path-in-binary-matrix](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix)|[Solution](path/shortest_path_in_binary_matrix.py) |Medium|BFS, Array, Matrix|
 |78|[subsets](https://leetcode-cn.com/problems/subsets)|[Solution](smath/subsets.py) |Medium|Bit Manipulation, Array, Backtracking|
+|47|[permutations-ii](https://leetcode-cn.com/problems/permutations-ii)|[Solution](permutation/permutations_ii.py) |Medium|Array, Backtracking|
