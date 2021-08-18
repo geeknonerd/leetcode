@@ -42,9 +42,10 @@ class Solution:
         used = [False] * size
         nums.sort()
 
-        def dfs(cur):
+        def dfs(cur: int):
             if cur == size:
                 res.append(path[:])
+                return
             for i in range(size):
                 if used[i]:
                     continue
