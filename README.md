@@ -50,3 +50,4 @@ If you like this project, please leave me a star. ★
 |78|[subsets](https://leetcode-cn.com/problems/subsets)|[Solution](smath/subsets.py) |Medium|Bit Manipulation, Array, Backtracking|
 |47|[permutations-ii](https://leetcode-cn.com/problems/permutations-ii)|[Solution](permutation/permutations_ii.py) |Medium|Array, Backtracking|
 |17|[letter-combinations-of-a-phone-number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)|[Solution](combination/letter_combinations_of_a_phone_number.py) |Medium|Hash Table, String, Backtracking|
+|213|[house-robber-ii](https://leetcode-cn.com/problems/house-robber-ii)|[Solution](smath/house_robber_ii.py) |Medium|Array, Dynamic Programming|
