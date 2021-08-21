@@ -51,3 +51,4 @@ If you like this project, please leave me a star. ★
 |47|[permutations-ii](https://leetcode-cn.com/problems/permutations-ii)|[Solution](permutation/permutations_ii.py) |Medium|Array, Backtracking|
 |17|[letter-combinations-of-a-phone-number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)|[Solution](combination/letter_combinations_of_a_phone_number.py) |Medium|Hash Table, String, Backtracking|
 |213|[house-robber-ii](https://leetcode-cn.com/problems/house-robber-ii)|[Solution](smath/house_robber_ii.py) |Medium|Array, Dynamic Programming|
+|45|[jump-game-ii](https://leetcode-cn.com/problems/jump-game-ii)|[Solution](smath/jump_game_ii.py) |Medium|Greedy, Array, Dynamic Programming|
