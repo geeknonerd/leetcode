@@ -52,4 +52,4 @@ If you like this project, please leave me a star. ★
 |17|[letter-combinations-of-a-phone-number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)|[Solution](combination/letter_combinations_of_a_phone_number.py) |Medium|Hash Table, String, Backtracking|
 |213|[house-robber-ii](https://leetcode-cn.com/problems/house-robber-ii)|[Solution](smath/house_robber_ii.py) |Medium|Array, Dynamic Programming|
 |45|[jump-game-ii](https://leetcode-cn.com/problems/jump-game-ii)|[Solution](smath/jump_game_ii.py) |Medium|Greedy, Array, Dynamic Programming|
-|5|[longest-palindromic-substring](https://leetcode-cn.com/problems/longest-palindromic-substring)|[Solution](smath/longest_palindromic_substring.py) |Medium|String, Dynamic Programming|
+|5|[longest-palindromic-substring](https://leetcode-cn.com/problems/longest-palindromic-substring)|[Solution](search/longest_palindromic_substring.py) |Medium|String, Dynamic Programming|
