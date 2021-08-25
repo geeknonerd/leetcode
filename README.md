@@ -55,3 +55,4 @@ If you like this project, please leave me a star. ★
 |5|[longest-palindromic-substring](https://leetcode-cn.com/problems/longest-palindromic-substring)|[Solution](search/longest_palindromic_substring.py) |Medium|String, Dynamic Programming|
 |91|[decode-ways](https://leetcode-cn.com/problems/decode-ways)|[Solution](smath/decode_ways.py) |Medium|String, Dynamic Programming|
 |300|[longest-increasing-subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence)|[Solution](search/longest_increasing_subsequence.py) |Medium|Array, Binary Search, Dynamic Programming|
+|1143|[longest-common-subsequence](https://leetcode-cn.com/problems/longest-common-subsequence)|[Solution](search/longest_common_subsequence.py) |Medium|String, Dynamic Programming|
