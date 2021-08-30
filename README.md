@@ -60,3 +60,4 @@ If you like this project, please leave me a star. ★
 |201|[bitwise-and-of-numbers-range](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range)|[Solution](smath/bitwise_and_of_numbers_range.py) |Medium|Bit Manipulation|
 |384|[shuffle-an-array](https://leetcode-cn.com/problems/shuffle-an-array)|[Solution](smath/shuffle_an_array.py) |Medium|Array, Math, Randomized|
 |130|[surrounded-regions](https://leetcode-cn.com/problems/surrounded-regions)|[Solution](smath/surrounded_regions.py) |Medium|Array, Math, Randomized|
+|74|[search-a-2d-matrix](https://leetcode-cn.com/problems/search-a-2d-matrix)|[Solution](search/search_a_2d_matrix.py) |Medium|Array, Binary Search, Matrix|
