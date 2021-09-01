@@ -62,3 +62,4 @@ If you like this project, please leave me a star. ★
 |130|[surrounded-regions](https://leetcode-cn.com/problems/surrounded-regions)|[Solution](smath/surrounded_regions.py) |Medium|Array, Math, Randomized|
 |74|[search-a-2d-matrix](https://leetcode-cn.com/problems/search-a-2d-matrix)|[Solution](search/search_a_2d_matrix.py) |Medium|Array, Binary Search, Matrix|
 |162|[find-peak-element](https://leetcode-cn.com/problems/find-peak-element)|[Solution](search/find_peak_element.py) |Medium|Array, Binary Search|
+|15|[3sum](https://leetcode-cn.com/problems/3sum)|[Solution](smath/3sum.py) |Medium|Array, Two Pointers, Sorting|
