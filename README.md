@@ -66,3 +66,4 @@ If you like this project, please leave me a star. ★
 |11|[container-with-most-water](https://leetcode-cn.com/problems/container-with-most-water)|[Solution](smath/container_with_most_water.py) |Medium|Greedy, Array, Two Pointers|
 |209|[minimum-size-subarray-sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum)|[Solution](search/minimum_size_subarray_sum.py) |Medium|Array, Binary Search, Prefix Sum|
 |547|[number-of-provinces](https://leetcode-cn.com/problems/number-of-provinces)|[Solution](smath/number_of_provinces.py) |Medium|DFS, BFS|
+|572|[subtree-of-another-tree](https://leetcode-cn.com/problems/subtree-of-another-tree)|[Solution](search/subtree_of_another_tree.py) |Medium|Tree, DFS, Binary Tree|
