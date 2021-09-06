@@ -67,3 +67,4 @@ If you like this project, please leave me a star. ★
 |209|[minimum-size-subarray-sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum)|[Solution](search/minimum_size_subarray_sum.py) |Medium|Array, Binary Search, Prefix Sum|
 |547|[number-of-provinces](https://leetcode-cn.com/problems/number-of-provinces)|[Solution](smath/number_of_provinces.py) |Medium|DFS, BFS|
 |572|[subtree-of-another-tree](https://leetcode-cn.com/problems/subtree-of-another-tree)|[Solution](search/subtree_of_another_tree.py) |Medium|Tree, DFS, Binary Tree|
+|797|[all-paths-from-source-to-target](https://leetcode-cn.com/problems/all-paths-from-source-to-target)|[Solution](search/all_paths_from_source_to_target.py) |Medium|DFS, BFS, Graph|
