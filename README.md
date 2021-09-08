@@ -69,3 +69,4 @@ If you like this project, please leave me a star. ★
 |572|[subtree-of-another-tree](https://leetcode-cn.com/problems/subtree-of-another-tree)|[Solution](search/subtree_of_another_tree.py) |Medium|Tree, DFS, Binary Tree|
 |797|[all-paths-from-source-to-target](https://leetcode-cn.com/problems/all-paths-from-source-to-target)|[Solution](search/all_paths_from_source_to_target.py) |Medium|DFS, BFS, Graph|
 |90|[subsets-ii](https://leetcode-cn.com/problems/subsets-ii)|[Solution](smath/subsets_ii.py) |Medium|Bit Manipulation, Array, Backtracking|
+|39|[combination-sum](https://leetcode-cn.com/problems/combination-sum)|[Solution](smath/combination_sum.py) |Medium|Array, Backtracking|
