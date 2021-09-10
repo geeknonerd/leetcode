@@ -71,3 +71,4 @@ If you like this project, please leave me a star. ★
 |90|[subsets-ii](https://leetcode-cn.com/problems/subsets-ii)|[Solution](smath/subsets_ii.py) |Medium|Bit Manipulation, Array, Backtracking|
 |39|[combination-sum](https://leetcode-cn.com/problems/combination-sum)|[Solution](smath/combination_sum.py) |Medium|Array, Backtracking|
 |22|[generate-parentheses](https://leetcode-cn.com/problems/generate-parentheses)|[Solution](combination/generate_parentheses.py) |Medium|String, Dynamic Programming, Backtracking|
+|55|[jump-game](https://leetcode-cn.com/problems/jump-game)|[Solution](smath/jump_game.py) |Medium|Greedy, Array, Dynamic Programming|
