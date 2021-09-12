@@ -41,7 +41,7 @@ candidates 中的每个数字在每个组合中只能使用一次。
 来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/combination-sum-ii
 """
-from typing import List
+from typing import List, Set, Tuple
 
 
 class Solution:
@@ -69,13 +69,21 @@ class Solution:
         return res
 
 
+def get_set(rl: List[List[int]]) -> Set[Tuple[int]]:
+    ret = set()
+    for i in rl:
+        sorted(i)
+        ret.add(tuple(i))
+    return ret
+
+
 if __name__ == '__main__':
     solution = Solution()
 
     result = solution.combinationSum2([10, 1, 2, 7, 6, 1, 5], 8)
     print(result)
-    assert result == [[1, 1, 6], [1, 2, 5], [1, 7], [2, 6]]
+    assert get_set(result) == get_set([[1, 1, 6], [1, 2, 5], [1, 7], [2, 6]])
 
     result = solution.combinationSum2([2, 5, 2, 1, 2], 5)
     print(result)
-    assert result == [[1, 2, 2], [5]]
+    assert get_set(result) == get_set([[1, 2, 2], [5]])

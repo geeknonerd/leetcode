@@ -74,3 +74,4 @@ If you like this project, please leave me a star. ★
 |55|[jump-game](https://leetcode-cn.com/problems/jump-game)|[Solution](smath/jump_game.py) |Medium|Greedy, Array, Dynamic Programming|
 |62|[unique-paths](https://leetcode-cn.com/problems/unique-paths)|[Solution](search/unique_paths.py) |Medium|Math, Dynamic Programming, Combinatorics|
 |40|[combination-sum-ii](https://leetcode-cn.com/problems/combination-sum-ii)|[Solution](combination/combination_sum_ii.py) |Medium|Array, Backtracking|
+|413|[arithmetic-slices](https://leetcode-cn.com/problems/arithmetic-slices)|[Solution](search/arithmetic_slices.py) |Medium|Array, Backtracking|
