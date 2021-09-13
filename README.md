@@ -76,3 +76,4 @@ If you like this project, please leave me a star. ★
 |40|[combination-sum-ii](https://leetcode-cn.com/problems/combination-sum-ii)|[Solution](combination/combination_sum_ii.py) |Medium|Array, Backtracking|
 |413|[arithmetic-slices](https://leetcode-cn.com/problems/arithmetic-slices)|[Solution](search/arithmetic_slices.py) |Medium|Array, Backtracking|
 |79|[word-search](https://leetcode-cn.com/problems/word-search)|[Solution](search/word_search.py) |Medium|Array, Backtracking, Matrix|
+|139|[word-break](https://leetcode-cn.com/problems/word-break)|[Solution](search/word_break.py) |Medium|Trie, Memoization, Array, Hash Table|
