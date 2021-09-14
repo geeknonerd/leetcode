@@ -77,3 +77,4 @@ If you like this project, please leave me a star. ★
 |413|[arithmetic-slices](https://leetcode-cn.com/problems/arithmetic-slices)|[Solution](search/arithmetic_slices.py) |Medium|Array, Backtracking|
 |79|[word-search](https://leetcode-cn.com/problems/word-search)|[Solution](search/word_search.py) |Medium|Array, Backtracking, Matrix|
 |139|[word-break](https://leetcode-cn.com/problems/word-break)|[Solution](search/word_break.py) |Medium|Trie, Memoization, Array, Hash Table|
+|673|[number-of-longest-increasing-subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence)|[Solution](search/number_of_longest_increasing_subsequence.py) |Medium|Binary Indexed Tree, Segment Tree, Array|
