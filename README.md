@@ -78,3 +78,4 @@ If you like this project, please leave me a star. ★
 |79|[word-search](https://leetcode-cn.com/problems/word-search)|[Solution](search/word_search.py) |Medium|Array, Backtracking, Matrix|
 |139|[word-break](https://leetcode-cn.com/problems/word-break)|[Solution](search/word_break.py) |Medium|Trie, Memoization, Array, Hash Table|
 |673|[number-of-longest-increasing-subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence)|[Solution](search/number_of_longest_increasing_subsequence.py) |Medium|Binary Indexed Tree, Segment Tree, Array|
+|583|[delete-operation-for-two-strings](https://leetcode-cn.com/problems/delete-operation-for-two-strings)|[Solution](smath/delete_operation_for_two_strings.py) |Medium|String, Dynamic Programming|
