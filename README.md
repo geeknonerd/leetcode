@@ -80,3 +80,4 @@ If you like this project, please leave me a star. ★
 |673|[number-of-longest-increasing-subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence)|[Solution](search/number_of_longest_increasing_subsequence.py) |Medium|Binary Indexed Tree, Segment Tree, Array|
 |583|[delete-operation-for-two-strings](https://leetcode-cn.com/problems/delete-operation-for-two-strings)|[Solution](smath/delete_operation_for_two_strings.py) |Medium|String, Dynamic Programming|
 |343|[integer-break](https://leetcode-cn.com/problems/integer-break)|[Solution](smath/integer_break.py) |Medium|Math, Dynamic Programming|
+|72|[edit-distance](https://leetcode-cn.com/problems/edit-distance)|[Solution](smath/edit_distance.py) |Hard|String, Dynamic Programming|
