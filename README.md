@@ -66,7 +66,7 @@ If you like this project, please leave me a star. ★
 |11|[container-with-most-water](https://leetcode-cn.com/problems/container-with-most-water)|[Solution](smath/container_with_most_water.py) |Medium|Greedy, Array, Two Pointers|
 |209|[minimum-size-subarray-sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum)|[Solution](search/minimum_size_subarray_sum.py) |Medium|Array, Binary Search, Prefix Sum|
 |547|[number-of-provinces](https://leetcode-cn.com/problems/number-of-provinces)|[Solution](smath/number_of_provinces.py) |Medium|DFS, BFS|
-|572|[subtree-of-another-tree](https://leetcode-cn.com/problems/subtree-of-another-tree)|[Solution](search/subtree_of_another_tree.py) |Medium|Tree, DFS, Binary Tree|
+|572|[subtree-of-another-tree](https://leetcode-cn.com/problems/subtree-of-another-tree)|[Solution](search/subtree_of_another_tree.py) |Easy|Tree, DFS, Binary Tree|
 |797|[all-paths-from-source-to-target](https://leetcode-cn.com/problems/all-paths-from-source-to-target)|[Solution](search/all_paths_from_source_to_target.py) |Medium|DFS, BFS, Graph|
 |90|[subsets-ii](https://leetcode-cn.com/problems/subsets-ii)|[Solution](smath/subsets_ii.py) |Medium|Bit Manipulation, Array, Backtracking|
 |39|[combination-sum](https://leetcode-cn.com/problems/combination-sum)|[Solution](smath/combination_sum.py) |Medium|Array, Backtracking|
@@ -81,4 +81,5 @@ If you like this project, please leave me a star. ★
 |583|[delete-operation-for-two-strings](https://leetcode-cn.com/problems/delete-operation-for-two-strings)|[Solution](smath/delete_operation_for_two_strings.py) |Medium|String, Dynamic Programming|
 |343|[integer-break](https://leetcode-cn.com/problems/integer-break)|[Solution](smath/integer_break.py) |Medium|Math, Dynamic Programming|
 |72|[edit-distance](https://leetcode-cn.com/problems/edit-distance)|[Solution](smath/edit_distance.py) |Hard|String, Dynamic Programming|
-|202|[happy-number](https://leetcode-cn.com/problems/happy-number)|[Solution](smath/happy_number.py) |Hard|Hash Table, Math, Two Pointers|
+|202|[happy-number](https://leetcode-cn.com/problems/happy-number)|[Solution](smath/happy_number.py) |Easy|Hash Table, Math, Two Pointers|
+|149|[max-points-on-a-line](https://leetcode-cn.com/problems/max-points-on-a-line)|[Solution](smath/max_points_on_a_line.py) |Hard|Geometry, Hash Table, Math|
