@@ -83,3 +83,4 @@ If you like this project, please leave me a star. ★
 |72|[edit-distance](https://leetcode-cn.com/problems/edit-distance)|[Solution](smath/edit_distance.py) |Hard|String, Dynamic Programming|
 |202|[happy-number](https://leetcode-cn.com/problems/happy-number)|[Solution](smath/happy_number.py) |Easy|Hash Table, Math, Two Pointers|
 |149|[max-points-on-a-line](https://leetcode-cn.com/problems/max-points-on-a-line)|[Solution](smath/max_points_on_a_line.py) |Hard|Geometry, Hash Table, Math|
+|217|[contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate)|[Solution](smath/contains_duplicate.py) |Easy|Array, Hash Table, Sorting|
