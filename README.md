@@ -85,3 +85,4 @@ If you like this project, please leave me a star. ★
 |149|[max-points-on-a-line](https://leetcode-cn.com/problems/max-points-on-a-line)|[Solution](smath/max_points_on_a_line.py) |Hard|Geometry, Hash Table, Math|
 |217|[contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate)|[Solution](smath/contains_duplicate.py) |Easy|Array, Hash Table, Sorting|
 |1|[two-sum](https://leetcode-cn.com/problems/two-sum)|[Solution](smath/two_sum.py) |Easy|Array, Hash Table|
+|350|[intersection-of-two-arrays-ii](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii)|[Solution](intersection/intersection_of_two_arrays_ii.py) |Easy|Array, Hash Table, Two Pointers, Binary Search|
