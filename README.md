@@ -88,3 +88,4 @@ If you like this project, please leave me a star. ★
 |350|[intersection-of-two-arrays-ii](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii)|[Solution](intersection/intersection_of_two_arrays_ii.py) |Easy|Array, Hash Table, Two Pointers, Binary Search|
 |566|[reshape-the-matrix](https://leetcode-cn.com/problems/reshape-the-matrix)|[Solution](smath/reshape_the_matrix.py) |Easy|Array, Matrix, Simulation|
 |36|[valid-sudoku](https://leetcode-cn.com/problems/valid-sudoku)|[Solution](smath/valid_sudoku.py) |Medium|Array, Hash Table, Matrix|
+|387|[first-unique-character-in-a-string](https://leetcode-cn.com/problems/first-unique-character-in-a-string)|[Solution](search/first_unique_character_in_a_string.py) |Easy|Queue, Hash Table, String, Counting|
