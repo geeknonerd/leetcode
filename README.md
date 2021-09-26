@@ -90,3 +90,4 @@ If you like this project, please leave me a star. ★
 |36|[valid-sudoku](https://leetcode-cn.com/problems/valid-sudoku)|[Solution](smath/valid_sudoku.py) |Medium|Array, Hash Table, Matrix|
 |387|[first-unique-character-in-a-string](https://leetcode-cn.com/problems/first-unique-character-in-a-string)|[Solution](search/first_unique_character_in_a_string.py) |Easy|Queue, Hash Table, String, Counting|
 |141|[linked-list-cycle](https://leetcode-cn.com/problems/linked-list-cycle)|[Solution](smath/linked_list_cycle.py) |Easy|Hash Table, Linked List, Two Pointers|
+|83|[remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list)|[Solution](smath/remove_duplicates_from_sorted_list.py) |Easy|Hash Table|
