@@ -92,3 +92,4 @@ If you like this project, please leave me a star. ★
 |141|[linked-list-cycle](https://leetcode-cn.com/problems/linked-list-cycle)|[Solution](smath/linked_list_cycle.py) |Easy|Hash Table, Linked List, Two Pointers|
 |83|[remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list)|[Solution](smath/remove_duplicates_from_sorted_list.py) |Easy|Hash Table|
 |20|[valid-parentheses](https://leetcode-cn.com/problems/valid-parentheses)|[Solution](smath/valid_parentheses.py) |Easy|Stack, String|
+|144|[binary-tree-preorder-traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)|[Solution](traversal/binary_tree_preorder_traversal.py) |Easy|Stack, Tree, DFS, Binary Tree|
