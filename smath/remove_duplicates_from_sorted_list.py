@@ -39,8 +39,35 @@ class ListNode:
         self.val = val
         self.next = next
 
+    def __str__(self):
+        return '{}{}'.format(self.val, ',{}'.format(self.next) if self.next else '')
+
 
 class Solution:
     def deleteDuplicates(self, head: ListNode) -> ListNode:
-        # TODO:
-        pass
+        if not head:
+            return head
+        pre_n = head
+        next_n = head.next
+        while next_n:
+            if pre_n.val == next_n.val:
+                next_n = next_n.next
+                pre_n.next = next_n
+            else:
+                pre_n = next_n
+                next_n = next_n.next
+        return head
+
+
+if __name__ == '__main__':
+    solution = Solution()
+
+    node = ListNode(1, ListNode(1, ListNode(2)))
+    result = solution.deleteDuplicates(node)
+    print(result)
+    assert str(result) == '1,2'
+
+    node = ListNode(1, ListNode(1, ListNode(2, ListNode(3, ListNode(3)))))
+    result = solution.deleteDuplicates(node)
+    print(result)
+    assert str(result) == '1,2,3'
