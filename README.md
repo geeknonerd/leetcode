@@ -93,3 +93,4 @@ If you like this project, please leave me a star. ★
 |83|[remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list)|[Solution](smath/remove_duplicates_from_sorted_list.py) |Easy|Hash Table|
 |20|[valid-parentheses](https://leetcode-cn.com/problems/valid-parentheses)|[Solution](smath/valid_parentheses.py) |Easy|Stack, String|
 |144|[binary-tree-preorder-traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)|[Solution](traversal/binary_tree_preorder_traversal.py) |Easy|Stack, Tree, DFS, Binary Tree|
+|104|[maximum-depth-of-binary-tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)|[Solution](smath/maximum_depth_of_binary_tree.py) |Easy|Tree, DFS, BFS|
