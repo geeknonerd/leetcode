@@ -97,3 +97,4 @@ If you like this project, please leave me a star. ★
 |101|[symmetric-tree](https://leetcode-cn.com/problems/symmetric-tree)|[Solution](smath/symmetric_tree.py) |Easy|Tree, DFS, BFS|
 |226|[invert-binary-tree](https://leetcode-cn.com/problems/invert-binary-tree)|[Solution](smath/invert_binary_tree.py) |Easy|Tree, DFS, BFS|
 |700|[search-in-a-binary-search-tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree)|[Solution](search/search_in_a_binary_search_tree.py) |Easy|Tree, Binary Search Tree, Binary Tree|
+|383|[ransom-note](https://leetcode-cn.com/problems/ransom-note)|[Solution](search/ransom_note.py) |Easy|Hash Table, String, Counting|
