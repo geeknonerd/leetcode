@@ -95,3 +95,4 @@ If you like this project, please leave me a star. ★
 |144|[binary-tree-preorder-traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)|[Solution](traversal/binary_tree_preorder_traversal.py) |Easy|Stack, Tree, DFS, Binary Tree|
 |104|[maximum-depth-of-binary-tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)|[Solution](smath/maximum_depth_of_binary_tree.py) |Easy|Tree, DFS, BFS|
 |101|[symmetric-tree](https://leetcode-cn.com/problems/symmetric-tree)|[Solution](smath/symmetric_tree.py) |Easy|Tree, DFS, BFS|
+|226|[invert-binary-tree](https://leetcode-cn.com/problems/invert-binary-tree)|[Solution](smath/invert_binary_tree.py) |Easy|Tree, DFS, BFS|
