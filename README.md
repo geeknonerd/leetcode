@@ -99,3 +99,4 @@ If you like this project, please leave me a star. ★
 |700|[search-in-a-binary-search-tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree)|[Solution](search/search_in_a_binary_search_tree.py) |Easy|Tree, Binary Search Tree, Binary Tree|
 |383|[ransom-note](https://leetcode-cn.com/problems/ransom-note)|[Solution](search/ransom_note.py) |Easy|Hash Table, String, Counting|
 |94|[binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal)|[Solution](search/binary_tree_inorder_traversal.py) |Easy|Stack, Tree, DFS, Binary Tree|
+|53|[maximum-subarray](https://leetcode-cn.com/problems/maximum-subarray)|[Solution](smath/maximum_subarray.py) |Easy|Array, Divide And Conquer, Dynamic Programming|
