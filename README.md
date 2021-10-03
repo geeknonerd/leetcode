@@ -100,3 +100,4 @@ If you like this project, please leave me a star. ★
 |383|[ransom-note](https://leetcode-cn.com/problems/ransom-note)|[Solution](search/ransom_note.py) |Easy|Hash Table, String, Counting|
 |94|[binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal)|[Solution](search/binary_tree_inorder_traversal.py) |Easy|Stack, Tree, DFS, Binary Tree|
 |53|[maximum-subarray](https://leetcode-cn.com/problems/maximum-subarray)|[Solution](smath/maximum_subarray.py) |Easy|Array, Divide And Conquer, Dynamic Programming|
+|88|[merge-sorted-array](https://leetcode-cn.com/problems/merge-sorted-array)|[Solution](merge/merge_sorted_array.py) |Easy|Array, Two Pointers, Sorting|
