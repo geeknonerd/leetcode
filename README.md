@@ -102,3 +102,4 @@ If you like this project, please leave me a star. ★
 |53|[maximum-subarray](https://leetcode-cn.com/problems/maximum-subarray)|[Solution](smath/maximum_subarray.py) |Easy|Array, Divide And Conquer, Dynamic Programming|
 |88|[merge-sorted-array](https://leetcode-cn.com/problems/merge-sorted-array)|[Solution](merge/merge_sorted_array.py) |Easy|Array, Two Pointers, Sorting|
 |121|[best-time-to-buy-and-sell-stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)|[Solution](smath/best_time_to_buy_and_sell_stock.py) |Easy|Array, Dynamic Programming|
+|118|[pascals-triangle](https://leetcode-cn.com/problems/pascals-triangle)|[Solution](smath/pascals_triangle.py) |Easy|Array, Dynamic Programming|
