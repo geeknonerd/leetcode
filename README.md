@@ -104,3 +104,4 @@ If you like this project, please leave me a star. ★
 |121|[best-time-to-buy-and-sell-stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)|[Solution](smath/best_time_to_buy_and_sell_stock.py) |Easy|Array, Dynamic Programming|
 |118|[pascals-triangle](https://leetcode-cn.com/problems/pascals-triangle)|[Solution](smath/pascals_triangle.py) |Easy|Array, Dynamic Programming|
 |73|[set-matrix-zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes)|[Solution](smath/set_matrix_zeroes.py) |Easy|Array, Hash Table, Matrix|
+|242|[valid-anagram](https://leetcode-cn.com/problems/valid-anagram)|[Solution](smath/valid_anagram.py) |Easy|Hash Table, String, Sorting|
