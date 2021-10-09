@@ -89,7 +89,7 @@ If you like this project, please leave me a star. ★
 |566|[reshape-the-matrix](https://leetcode-cn.com/problems/reshape-the-matrix)|[Solution](smath/reshape_the_matrix.py) |Easy|Array, Matrix, Simulation|
 |36|[valid-sudoku](https://leetcode-cn.com/problems/valid-sudoku)|[Solution](smath/valid_sudoku.py) |Medium|Array, Hash Table, Matrix|
 |387|[first-unique-character-in-a-string](https://leetcode-cn.com/problems/first-unique-character-in-a-string)|[Solution](search/first_unique_character_in_a_string.py) |Easy|Queue, Hash Table, String, Counting|
-|141|[linked-list-cycle](https://leetcode-cn.com/problems/linked-list-cycle)|[Solution](smath/linked_list_cycle.py) |Easy|Hash Table, Linked List, Two Pointers|
+|141|[linked-list-cycle](https://leetcode-cn.com/problems/linked-list-cycle)|[Solution](smath/linked_list_cycle.py) |Easy|Hash Table, LinkedList, Two Pointers|
 |83|[remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list)|[Solution](smath/remove_duplicates_from_sorted_list.py) |Easy|Hash Table|
 |20|[valid-parentheses](https://leetcode-cn.com/problems/valid-parentheses)|[Solution](smath/valid_parentheses.py) |Easy|Stack, String|
 |144|[binary-tree-preorder-traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)|[Solution](traversal/binary_tree_preorder_traversal.py) |Easy|Stack, Tree, DFS, Binary Tree|
@@ -105,3 +105,4 @@ If you like this project, please leave me a star. ★
 |118|[pascals-triangle](https://leetcode-cn.com/problems/pascals-triangle)|[Solution](smath/pascals_triangle.py) |Easy|Array, Dynamic Programming|
 |73|[set-matrix-zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes)|[Solution](smath/set_matrix_zeroes.py) |Easy|Array, Hash Table, Matrix|
 |242|[valid-anagram](https://leetcode-cn.com/problems/valid-anagram)|[Solution](smath/valid_anagram.py) |Easy|Hash Table, String, Sorting|
+|203|[remove-linked-list-elements](https://leetcode-cn.com/problems/remove-linked-list-elements)|[Solution](remove/remove_linked_list_elements.py) |Easy|Recursion, LinkedList|
