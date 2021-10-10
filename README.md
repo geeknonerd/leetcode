@@ -106,3 +106,4 @@ If you like this project, please leave me a star. ★
 |73|[set-matrix-zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes)|[Solution](smath/set_matrix_zeroes.py) |Easy|Array, Hash Table, Matrix|
 |242|[valid-anagram](https://leetcode-cn.com/problems/valid-anagram)|[Solution](smath/valid_anagram.py) |Easy|Hash Table, String, Sorting|
 |203|[remove-linked-list-elements](https://leetcode-cn.com/problems/remove-linked-list-elements)|[Solution](remove/remove_linked_list_elements.py) |Easy|Recursion, LinkedList|
+|232|[implement-queue-using-stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks)|[Solution](implement/implement_queue_using_stacks.py) |Easy|Stack, Design, Queue|
