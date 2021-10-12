@@ -107,3 +107,4 @@ If you like this project, please leave me a star. ★
 |242|[valid-anagram](https://leetcode-cn.com/problems/valid-anagram)|[Solution](smath/valid_anagram.py) |Easy|Hash Table, String, Sorting|
 |203|[remove-linked-list-elements](https://leetcode-cn.com/problems/remove-linked-list-elements)|[Solution](remove/remove_linked_list_elements.py) |Easy|Recursion, LinkedList|
 |232|[implement-queue-using-stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks)|[Solution](implement/implement_queue_using_stacks.py) |Easy|Stack, Design, Queue|
+|145|[binary-tree-postorder-traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal)|[Solution](implement/binary_tree_postorder_traversal.py) |Easy|Stack, Tree, DFS, Binary Tree|
