@@ -103,10 +103,11 @@ If you like this project, please leave me a star. ★
 |88|[merge-sorted-array](https://leetcode-cn.com/problems/merge-sorted-array)|[Solution](merge/merge_sorted_array.py) |Easy|Array, Two Pointers, Sorting|
 |121|[best-time-to-buy-and-sell-stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)|[Solution](smath/best_time_to_buy_and_sell_stock.py) |Easy|Array, Dynamic Programming|
 |118|[pascals-triangle](https://leetcode-cn.com/problems/pascals-triangle)|[Solution](smath/pascals_triangle.py) |Easy|Array, Dynamic Programming|
-|73|[set-matrix-zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes)|[Solution](smath/set_matrix_zeroes.py) |Easy|Array, Hash Table, Matrix|
+|73|[set-matrix-zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes)|[Solution](smath/set_matrix_zeroes.py) |Medium|Array, Hash Table, Matrix|
 |242|[valid-anagram](https://leetcode-cn.com/problems/valid-anagram)|[Solution](smath/valid_anagram.py) |Easy|Hash Table, String, Sorting|
 |203|[remove-linked-list-elements](https://leetcode-cn.com/problems/remove-linked-list-elements)|[Solution](remove/remove_linked_list_elements.py) |Easy|Recursion, LinkedList|
 |232|[implement-queue-using-stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks)|[Solution](implement/implement_queue_using_stacks.py) |Easy|Stack, Design, Queue|
 |145|[binary-tree-postorder-traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal)|[Solution](implement/binary_tree_postorder_traversal.py) |Easy|Stack, Tree, DFS, Binary Tree|
-|102|[binary-tree-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)|[Solution](implement/binary_tree_level_order_traversal.py) |Easy|Tree, BFS, Binary Tree|
+|102|[binary-tree-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)|[Solution](implement/binary_tree_level_order_traversal.py) |Medium|Tree, BFS, Binary Tree|
 |112|[path-sum](https://leetcode-cn.com/problems/path-sum)|[Solution](search/path_sum.py) |Easy|Tree, DFS, Binary Tree|
+|701|[insert-into-a-binary-search-tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree)|[Solution](implement/insert_into_a_binary_search_tree.py) |Medium|Tree, Binary Search Tree, Binary Tree|
