@@ -109,3 +109,4 @@ If you like this project, please leave me a star. ★
 |232|[implement-queue-using-stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks)|[Solution](implement/implement_queue_using_stacks.py) |Easy|Stack, Design, Queue|
 |145|[binary-tree-postorder-traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal)|[Solution](implement/binary_tree_postorder_traversal.py) |Easy|Stack, Tree, DFS, Binary Tree|
 |102|[binary-tree-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)|[Solution](implement/binary_tree_level_order_traversal.py) |Easy|Tree, BFS, Binary Tree|
+|112|[path-sum](https://leetcode-cn.com/problems/path-sum)|[Solution](search/path_sum.py) |Easy|Tree, DFS, Binary Tree|
