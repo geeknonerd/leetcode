@@ -114,3 +114,4 @@ If you like this project, please leave me a star. ★
 |653|[two-sum-iv-input-is-a-bst](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst)|[Solution](search/two_sum_iv_input_is_a_bst.py) |Easy|Tree, DFS, BFS|
 |235|[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[Solution](search/lowest_common_ancestor_of_a_binary_search_tree.py) |Easy|Tree, DFS, BFS|
 |98|[validate-binary-search-tree](https://leetcode-cn.com/problems/validate-binary-search-tree)|[Solution](search/validate_binary_search_tree.py) |Medium|Tree, DFS, BFS, Binary Search Tree|
+|169|[majority-element](https://leetcode-cn.com/problems/majority-element)|[Solution](search/majority_element.py) |Easy|Array, Hash Table, Divide and Conquer, Counting|
