@@ -119,3 +119,4 @@ If you like this project, please leave me a star. ★
 |119|[pascals-triangle-ii](https://leetcode-cn.com/problems/pascals-triangle-ii)|[Solution](smath/pascals_triangle_ii.py) |Easy|Array, Dynamic Programming|
 |240|[search-a-2d-matrix-ii](https://leetcode-cn.com/problems/search-a-2d-matrix-ii)|[Solution](search/search_a_2d_matrix_ii.py) |Medium|Array, Binary Search, Divide and Conquer, Matrix|
 |238|[product-of-array-except-self](https://leetcode-cn.com/problems/product-of-array-except-self)|[Solution](smath/product_of_array_except_self.py) |Medium|Array, Prefix Sum|
+|415|[add-strings](https://leetcode-cn.com/problems/add-strings)|[Solution](add/add_strings.py) |Easy|Math, String, Simulation|
