@@ -122,3 +122,4 @@ If you like this project, please leave me a star. ★
 |415|[add-strings](https://leetcode-cn.com/problems/add-strings)|[Solution](add/add_strings.py) |Easy|Math, String, Simulation|
 |290|[word-pattern](https://leetcode-cn.com/problems/word-pattern)|[Solution](pattern/word_pattern.py) |Easy|Hash Table, String|
 |43|[multiply-strings](https://leetcode-cn.com/problems/multiply-strings)|[Solution](multiply/multiply_strings.py) |Medium|Math, String, Simulation|
+|706|[design-hashmap](https://leetcode-cn.com/problems/design-hashmap)|[Solution](design/design_hashmap.py) |Easy|Design, Array, Hash Table, Linked List|
