@@ -125,3 +125,4 @@ If you like this project, please leave me a star. ★
 |706|[design-hashmap](https://leetcode-cn.com/problems/design-hashmap)|[Solution](design/design_hashmap.py) |Easy|Design, Array, Hash Table, Linked List|
 |2|[add-two-numbers](https://leetcode-cn.com/problems/add-two-numbers)|[Solution](add/add_two_numbers.py) |Medium|Recursion, Linked List, Math|
 |160|[intersection-of-two-linked-lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists)|[Solution](intersection/intersection_of_two_linked_lists.py) |Easy|Hash Table, Linked List, Two Pointers|
+|707|[design-linked-list](https://leetcode-cn.com/problems/design-linked-list)|[Solution](design/design_linked_list.py) |Medium|Design, Linked List|
