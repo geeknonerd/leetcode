@@ -127,3 +127,4 @@ If you like this project, please leave me a star. ★
 |160|[intersection-of-two-linked-lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists)|[Solution](intersection/intersection_of_two_linked_lists.py) |Easy|Hash Table, Linked List, Two Pointers|
 |707|[design-linked-list](https://leetcode-cn.com/problems/design-linked-list)|[Solution](design/design_linked_list.py) |Medium|Design, Linked List|
 |143|[reorder-list](https://leetcode-cn.com/problems/reorder-list)|[Solution](sort/reorder_list.py) |Medium|Stack, Recursion, Linked List, Two Pointers|
+|155|[min-stack](https://leetcode-cn.com/problems/min-stack)|[Solution](design/min_stack.py) |Easy|Stack, Design|
