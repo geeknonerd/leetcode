@@ -130,3 +130,4 @@ If you like this project, please leave me a star. ★
 |155|[min-stack](https://leetcode-cn.com/problems/min-stack)|[Solution](design/min_stack.py) |Easy|Stack, Design|
 |108|[convert-sorted-array-to-binary-search-tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree)|[Solution](convert/convert_sorted_array_to_binary_search_tree.py) |Easy|Tree, Binary Search Tree, Array, Divide and Conquer|
 |113|[path-sum-ii](https://leetcode-cn.com/problems/path-sum-ii)|[Solution](path/path_sum_ii.py) |Medium|Tree, DFS, Backtracking, Binary Tree|
+|230|[kth-smallest-element-in-a-bst](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst)|[Solution](search/kth_smallest_element_in_a_bst.py) |Medium|Tree, DFS, Binary Search Tree|
