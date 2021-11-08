@@ -136,3 +136,4 @@ If you like this project, please leave me a star. ★
 |215|[kth-largest-element-in-an-array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array)|[Solution](search/kth_largest_element_in_an_array.py) |Medium|Array, Divide and Conquer, Quickselect, Sorting|
 |164|[maximum-gap](https://leetcode-cn.com/problems/maximum-gap)|[Solution](search/maximum_gap.py) |Hard|Array, Bucket Sort, Radix Sort, Sorting|
 |56|[merge-intervals](https://leetcode-cn.com/problems/merge-intervals)|[Solution](merge/merge_intervals.py) |Medium|Array, Bucket Sorting|
+|48|[rotate-image](https://leetcode-cn.com/problems/rotate-image)|[Solution](rotate/rotate_image.py) |Medium|Array, Math, Matrix|
