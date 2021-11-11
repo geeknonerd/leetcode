@@ -139,3 +139,4 @@ If you like this project, please leave me a star. ★
 |48|[rotate-image](https://leetcode-cn.com/problems/rotate-image)|[Solution](rotate/rotate_image.py) |Medium|Array, Math, Matrix|
 |59|[spiral-matrix-ii](https://leetcode-cn.com/problems/spiral-matrix-ii)|[Solution](rotate/spiral_matrix_ii.py) |Medium|Array, Math, Matrix|
 |435|[non-overlapping-intervals](https://leetcode-cn.com/problems/non-overlapping-intervals)|[Solution](smath/non_overlapping_intervals.py) |Medium|Greedy, Array, Dynamic Programming, Sorting|
+|334|[increasing-triplet-subsequence](https://leetcode-cn.com/problems/increasing-triplet-subsequence)|[Solution](increasing/increasing_triplet_subsequence.py) |Medium|Greedy, Array|
