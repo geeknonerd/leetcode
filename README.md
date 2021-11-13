@@ -141,3 +141,4 @@ If you like this project, please leave me a star. ★
 |435|[non-overlapping-intervals](https://leetcode-cn.com/problems/non-overlapping-intervals)|[Solution](smath/non_overlapping_intervals.py) |Medium|Greedy, Array, Dynamic Programming, Sorting|
 |334|[increasing-triplet-subsequence](https://leetcode-cn.com/problems/increasing-triplet-subsequence)|[Solution](increasing/increasing_triplet_subsequence.py) |Medium|Greedy, Array|
 |409|[longest-palindrome](https://leetcode-cn.com/problems/longest-palindrome)|[Solution](smath/longest_palindrome.py) |Easy|Greedy, Hash Table, String|
+|763|[partition-labels](https://leetcode-cn.com/problems/partition-labels)|[Solution](partition/partition_labels.py) |Medium|Greedy, Hash Table, Two Pointers, String|
