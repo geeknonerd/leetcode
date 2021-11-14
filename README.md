@@ -143,3 +143,4 @@ If you like this project, please leave me a star. ★
 |409|[longest-palindrome](https://leetcode-cn.com/problems/longest-palindrome)|[Solution](smath/longest_palindrome.py) |Easy|Greedy, Hash Table, String|
 |763|[partition-labels](https://leetcode-cn.com/problems/partition-labels)|[Solution](partition/partition_labels.py) |Medium|Greedy, Hash Table, Two Pointers, String|
 |49|[group-anagrams](https://leetcode-cn.com/problems/group-anagrams)|[Solution](partition/group_anagrams.py) |Medium|Hash Table, String, Sorting|
+|560|[subarray-sum-equals-k](https://leetcode-cn.com/problems/subarray-sum-equals-k)|[Solution](search/subarray_sum_equals_k.py) |Medium|Array, Hash Table, Prefix Sum|
