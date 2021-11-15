@@ -144,3 +144,4 @@ If you like this project, please leave me a star. ★
 |763|[partition-labels](https://leetcode-cn.com/problems/partition-labels)|[Solution](partition/partition_labels.py) |Medium|Greedy, Hash Table, Two Pointers, String|
 |49|[group-anagrams](https://leetcode-cn.com/problems/group-anagrams)|[Solution](partition/group_anagrams.py) |Medium|Hash Table, String, Sorting|
 |560|[subarray-sum-equals-k](https://leetcode-cn.com/problems/subarray-sum-equals-k)|[Solution](search/subarray_sum_equals_k.py) |Medium|Array, Hash Table, Prefix Sum|
+|187|[repeated-dna-sequences](https://leetcode-cn.com/problems/repeated-dna-sequences)|[Solution](search/repeated_dna_sequences.py) |Medium|Bit Manipulation, Hash Table, String|
