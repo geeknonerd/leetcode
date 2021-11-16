@@ -145,3 +145,4 @@ If you like this project, please leave me a star. ★
 |49|[group-anagrams](https://leetcode-cn.com/problems/group-anagrams)|[Solution](partition/group_anagrams.py) |Medium|Hash Table, String, Sorting|
 |560|[subarray-sum-equals-k](https://leetcode-cn.com/problems/subarray-sum-equals-k)|[Solution](search/subarray_sum_equals_k.py) |Medium|Array, Hash Table, Prefix Sum|
 |187|[repeated-dna-sequences](https://leetcode-cn.com/problems/repeated-dna-sequences)|[Solution](search/repeated_dna_sequences.py) |Medium|Bit Manipulation, Hash Table, String|
+|142|[linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii)|[Solution](search/linked_list_cycle_ii.py) |Medium|Hash Table, Linked List, Two Pointers|
