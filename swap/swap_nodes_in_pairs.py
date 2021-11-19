@@ -43,10 +43,18 @@ class ListNode:
         self.val = val
         self.next = next
 
+    def __str__(self):
+        return '{},{}'.format(self.val, self.next)
+
 
 class Solution:
     def swapPairs(self, head: ListNode) -> ListNode:
-        pass
+        if not head or not head.next:
+            return head
+        new_head = head.next
+        head.next = self.swapPairs(new_head.next)
+        new_head.next = head
+        return new_head
 
 
 if __name__ == '__main__':
@@ -55,14 +63,14 @@ if __name__ == '__main__':
     node = ListNode(1, next=ListNode(2, next=ListNode(3, next=ListNode(4))))
     result = solution.swapPairs(node)
     print(result)
-    assert str(result) == '2,1,4,3'
+    assert str(result) == '2,1,4,3,None'
 
     node = None
     result = solution.swapPairs(node)
     print(result)
-    assert str(result) == ''
+    assert result is None
 
     node = ListNode(1)
     result = solution.swapPairs(node)
     print(result)
-    assert str(result) == '1'
+    assert str(result) == '1,None'
