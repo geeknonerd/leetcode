@@ -148,3 +148,4 @@ If you like this project, please leave me a star. ★
 |142|[linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii)|[Solution](search/linked_list_cycle_ii.py) |Medium|Hash Table, Linked List, Two Pointers|
 |1249|[minimum-remove-to-make-valid-parentheses](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses)|[Solution](remove/minimum_remove_to_make_valid_parentheses.py) |Medium|Stack, String|
 |24|[swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs)|[Solution](swap/swap_nodes_in_pairs.py) |Medium|Recursion, Linked List|
+|1823|[find-the-winner-of-the-circular-game](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game)|[Solution]search/find_the_winner_of_the_circular_game.py) |Medium|Recursion, Array, Math, Simulation|
