@@ -151,3 +151,4 @@ If you like this project, please leave me a star. ★
 |1823|[find-the-winner-of-the-circular-game](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game)|[Solution](search/find_the_winner_of_the_circular_game.py) |Medium|Recursion, Array, Math, Simulation|
 |105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[Solution](smath/construct_binary_tree_from_preorder_and_inorder_traversal.py) |Medium|Tree, Array, Hash Table, Divide and Conquer|
 |199|[binary-tree-right-side-view](https://leetcode-cn.com/problems/binary-tree-right-side-view)|[Solution](smath/binary_tree_right_side_view.py) |Medium|Tree, DFS, BFS|
+|25|[reverse-nodes-in-k-group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)|[Solution](reverse/reverse_nodes_in_k_group.py) |Hard|Recursion, Linked List|
