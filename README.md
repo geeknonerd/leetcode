@@ -153,4 +153,4 @@ If you like this project, please leave me a star. ★
 |199|[binary-tree-right-side-view](https://leetcode-cn.com/problems/binary-tree-right-side-view)|[Solution](smath/binary_tree_right_side_view.py) |Medium|Tree, DFS, BFS|
 |25|[reverse-nodes-in-k-group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)|[Solution](reverse/reverse_nodes_in_k_group.py) |Hard|Recursion, Linked List|
 |173|[binary-search-tree-iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator)|[Solution](search/binary_search_tree_iterator.py) |Medium|Stack, Tree, Design, Binary Search Tree|
-|297|[serialize-and-deserialize-binary-tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree)|[Solution](search/serialize_and_deserialize_binary_tree.py) |Hard|Tree, DFS, BFS|
+|297|[serialize-and-deserialize-binary-tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree)|[Solution](convert/serialize_and_deserialize_binary_tree.py) |Hard|Tree, DFS, BFS|
