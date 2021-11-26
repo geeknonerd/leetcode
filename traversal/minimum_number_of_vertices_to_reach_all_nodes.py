@@ -44,7 +44,9 @@ from typing import List
 
 class Solution:
     def findSmallestSetOfVertices(self, n: int, edges: List[List[int]]) -> List[int]:
-        pass
+        ends = set(e for _, e in edges)
+        ans = [i for i in range(n) if i not in ends]
+        return ans
 
 
 if __name__ == '__main__':
