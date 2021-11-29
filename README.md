@@ -156,3 +156,4 @@ If you like this project, please leave me a star. ★
 |297|[serialize-and-deserialize-binary-tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree)|[Solution](convert/serialize_and_deserialize_binary_tree.py) |Hard|Tree, DFS, BFS|
 |103|[binary-tree-zigzag-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal)|[Solution](traversal/binary_tree_zigzag_level_order_traversal.py) |Medium|Tree, BFS, Binary Tree|
 |1557|[minimum-number-of-vertices-to-reach-all-nodes](https://leetcode-cn.com/problems/minimum-number-of-vertices-to-reach-all-nodes)|[Solution](traversal/minimum_number_of_vertices_to_reach_all_nodes.py) |Medium|Graph|
+|451|[sort-characters-by-frequency](https://leetcode-cn.com/problems/sort-characters-by-frequency)|[Solution](sort/sort_characters_by_frequency.py) |Medium|Hash Table, String, Bucket Sort, Counting|
