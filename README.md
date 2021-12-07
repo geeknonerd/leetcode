@@ -162,3 +162,4 @@ If you like this project, please leave me a star. ★
 |841|[keys-and-rooms](https://leetcode-cn.com/problems/keys-and-rooms)|[Solution](smath/keys_and_rooms.py) |Medium|DFS, BFS, Graph|
 |509|[fibonacci-number](https://leetcode-cn.com/problems/fibonacci-number)|[Solution](smath/fibonacci_number.py) |Easy|Recursion, Memoization, Math|
 |746|[min-cost-climbing-stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs)|[Solution](smath/min_cost_climbing_stairs.py) |Easy|Array, Dynamic Programming|
+|918|[maximum-sum-circular-subarray](https://leetcode-cn.com/problems/maximum-sum-circular-subarray)|[Solution](add/maximum_sum_circular_subarray.py) |Medium|Queue, Array, Divide and Conquer, Dynamic Programming|
