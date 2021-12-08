@@ -163,3 +163,4 @@ If you like this project, please leave me a star. ★
 |509|[fibonacci-number](https://leetcode-cn.com/problems/fibonacci-number)|[Solution](smath/fibonacci_number.py) |Easy|Recursion, Memoization, Math|
 |746|[min-cost-climbing-stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs)|[Solution](smath/min_cost_climbing_stairs.py) |Easy|Array, Dynamic Programming|
 |918|[maximum-sum-circular-subarray](https://leetcode-cn.com/problems/maximum-sum-circular-subarray)|[Solution](add/maximum_sum_circular_subarray.py) |Medium|Queue, Array, Divide and Conquer, Dynamic Programming|
+|152|[maximum-product-subarray](https://leetcode-cn.com/problems/maximum-product-subarray)|[Solution](product/maximum_product_subarray.py) |Medium|Array, Dynamic Programming|
