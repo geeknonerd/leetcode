@@ -166,3 +166,4 @@ If you like this project, please leave me a star. ★
 |152|[maximum-product-subarray](https://leetcode-cn.com/problems/maximum-product-subarray)|[Solution](product/maximum_product_subarray.py) |Medium|Array, Dynamic Programming|
 |1014|[best-sightseeing-pair](https://leetcode-cn.com/problems/best-sightseeing-pair)|[Solution](best/best_sightseeing_pair.py) |Medium|Array, Dynamic Programming|
 |309|[best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)|[Solution](best/best_time_to_buy_and_sell_stock_with_cooldown.py) |Medium|Array, Dynamic Programming|
+|450|[delete-node-in-a-bst](https://leetcode-cn.com/problems/delete-node-in-a-bst)|[Solution](search/delete_node_in_a_bst.py) |Medium|Tree, Binary Search Tree, Binary Tree|
