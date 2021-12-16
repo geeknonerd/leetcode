@@ -46,7 +46,12 @@ from typing import List
 
 class Solution:
     def minFallingPathSum(self, matrix: List[List[int]]) -> int:
-        pass
+        while len(matrix) >= 2:
+            row = matrix.pop()
+            size = len(row)
+            for i in range(size):
+                matrix[-1][i] += min(row[max(0, i-1):min(size, i+2)])
+        return min(matrix[0])
 
 
 if __name__ == '__main__':
