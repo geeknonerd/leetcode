@@ -169,3 +169,4 @@ If you like this project, please leave me a star. ★
 |450|[delete-node-in-a-bst](https://leetcode-cn.com/problems/delete-node-in-a-bst)|[Solution](search/delete_node_in_a_bst.py) |Medium|Tree, Binary Search Tree, Binary Tree|
 |264|[ugly-number-ii](https://leetcode-cn.com/problems/ugly-number-ii)|[Solution](smath/ugly_number_ii.py) |Medium|Hash Table, Math, Dynamic Programming|
 |931|[minimum-falling-path-sum](https://leetcode-cn.com/problems/minimum-falling-path-sum)|[Solution](path/minimum_falling_path_sum.py) |Medium|Array, Dynamic Programming, Matrix|
+|64|[minimum-path-sum](https://leetcode-cn.com/problems/minimum-path-sum)|[Solution](path/minimum_path_sum.py) |Medium|Array, Dynamic Programming, Matrix|
