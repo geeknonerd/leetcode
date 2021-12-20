@@ -170,3 +170,4 @@ If you like this project, please leave me a star. ★
 |264|[ugly-number-ii](https://leetcode-cn.com/problems/ugly-number-ii)|[Solution](smath/ugly_number_ii.py) |Medium|Hash Table, Math, Dynamic Programming|
 |931|[minimum-falling-path-sum](https://leetcode-cn.com/problems/minimum-falling-path-sum)|[Solution](path/minimum_falling_path_sum.py) |Medium|Array, Dynamic Programming, Matrix|
 |64|[minimum-path-sum](https://leetcode-cn.com/problems/minimum-path-sum)|[Solution](path/minimum_path_sum.py) |Medium|Array, Dynamic Programming, Matrix|
+|1314|[matrix-block-sum](https://leetcode-cn.com/problems/matrix-block-sum)|[Solution](matrix/matrix_block_sum.py) |Medium|Array, Matrix, Prefix Sum|
