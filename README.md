@@ -173,3 +173,4 @@ If you like this project, please leave me a star. ★
 |1314|[matrix-block-sum](https://leetcode-cn.com/problems/matrix-block-sum)|[Solution](matrix/matrix_block_sum.py) |Medium|Array, Matrix, Prefix Sum|
 |392|[is-subsequence](https://leetcode-cn.com/problems/is-subsequence)|[Solution](subseq/is_subsequence.py) |Easy|Two Pointers, String, Dynamic Programming|
 |42|[trapping-rain-water](https://leetcode-cn.com/problems/trapping-rain-water)|[Solution](smath/trapping_rain_water.py) |Hard|Stack, Array, Two Pointers, Dynamic Programming|
+|377|[combination-sum-iv](https://leetcode-cn.com/problems/combination-sum-iv)|[Solution](combination/combination_sum_iv.py) |Medium|Array, Dynamic Programming|
