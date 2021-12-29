@@ -176,3 +176,4 @@ If you like this project, please leave me a star. ★
 |377|[combination-sum-iv](https://leetcode-cn.com/problems/combination-sum-iv)|[Solution](combination/combination_sum_iv.py) |Medium|Array, Dynamic Programming|
 |1137|[n-th-tribonacci-number](https://leetcode-cn.com/problems/n-th-tribonacci-number)|[Solution](search/n_th_tribonacci_number.py) |Easy|Memoization, Math, Dynamic Programming|
 |740|[delete-and-earn](https://leetcode-cn.com/problems/delete-and-earn)|[Solution](remove/delete_and_earn.py) |Medium|Array, Hash Table, Dynamic Programming|
+|1567|[maximum-length-of-subarray-with-positive-product](https://leetcode-cn.com/problems/maximum-length-of-subarray-with-positive-product)|[Solution](product/maximum_length_of_subarray_with_positive_product.py) |Medium|Greedy, Array, Dynamic Programming|
