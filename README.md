@@ -178,3 +178,4 @@ If you like this project, please leave me a star. ★
 |740|[delete-and-earn](https://leetcode-cn.com/problems/delete-and-earn)|[Solution](remove/delete_and_earn.py) |Medium|Array, Hash Table, Dynamic Programming|
 |1567|[maximum-length-of-subarray-with-positive-product](https://leetcode-cn.com/problems/maximum-length-of-subarray-with-positive-product)|[Solution](product/maximum_length_of_subarray_with_positive_product.py) |Medium|Greedy, Array, Dynamic Programming|
 |122|[best-time-to-buy-and-sell-stock-ii](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)|[Solution](best/best_time_to_buy_and_sell_stock_ii.py) |Medium|Greedy, Array, Dynamic Programming|
+|714|[best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)|[Solution](best/best_time_to_buy_and_sell_stock_with_transaction_fee.py) |Medium|Greedy, Array, Dynamic Programming|
