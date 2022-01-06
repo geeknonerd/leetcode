@@ -179,4 +179,5 @@ If you like this project, please leave me a star. ★
 |1567|[maximum-length-of-subarray-with-positive-product](https://leetcode-cn.com/problems/maximum-length-of-subarray-with-positive-product)|[Solution](product/maximum_length_of_subarray_with_positive_product.py) |Medium|Greedy, Array, Dynamic Programming|
 |122|[best-time-to-buy-and-sell-stock-ii](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)|[Solution](best/best_time_to_buy_and_sell_stock_ii.py) |Medium|Greedy, Array, Dynamic Programming|
 |714|[best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)|[Solution](best/best_time_to_buy_and_sell_stock_with_transaction_fee.py) |Medium|Greedy, Array, Dynamic Programming|
-|96|[unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees)|[Solution](search/unique_binary_search_trees.py) |Medium|Greedy, Array, Dynamic Programming|
+|96|[unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees)|[Solution](search/unique_binary_search_trees.py) |Medium|Tree, Binary Search Tree, Math, Dynamic Programming|
+|304|[range-sum-query-2d-immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable)|[Solution](search/range_sum_query_2d_immutable.py) |Medium|Design, Array, Matrix, Prefix Sum|
