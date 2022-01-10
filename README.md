@@ -72,7 +72,7 @@ If you like this project, please leave me a star. ★
 |39|[combination-sum](https://leetcode-cn.com/problems/combination-sum)|[Solution](smath/combination_sum.py) |Medium|Array, Backtracking|
 |22|[generate-parentheses](https://leetcode-cn.com/problems/generate-parentheses)|[Solution](combination/generate_parentheses.py) |Medium|String, Dynamic Programming, Backtracking|
 |55|[jump-game](https://leetcode-cn.com/problems/jump-game)|[Solution](smath/jump_game.py) |Medium|Greedy, Array, Dynamic Programming|
-|62|[unique-paths](https://leetcode-cn.com/problems/unique-paths)|[Solution](search/unique_paths.py) |Medium|Math, Dynamic Programming, Combinatorics|
+|62|[unique-paths](https://leetcode-cn.com/problems/unique-paths)|[Solution](path/unique_paths.py) |Medium|Math, Dynamic Programming, Combinatorics|
 |40|[combination-sum-ii](https://leetcode-cn.com/problems/combination-sum-ii)|[Solution](combination/combination_sum_ii.py) |Medium|Array, Backtracking|
 |413|[arithmetic-slices](https://leetcode-cn.com/problems/arithmetic-slices)|[Solution](search/arithmetic_slices.py) |Medium|Array, Backtracking|
 |79|[word-search](https://leetcode-cn.com/problems/word-search)|[Solution](search/word_search.py) |Medium|Array, Backtracking, Matrix|
@@ -181,6 +181,7 @@ If you like this project, please leave me a star. ★
 |714|[best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)|[Solution](best/best_time_to_buy_and_sell_stock_with_transaction_fee.py) |Medium|Greedy, Array, Dynamic Programming|
 |96|[unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees)|[Solution](search/unique_binary_search_trees.py) |Medium|Tree, Binary Search Tree, Math, Dynamic Programming|
 |304|[range-sum-query-2d-immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable)|[Solution](search/range_sum_query_2d_immutable.py) |Medium|Design, Array, Matrix, Prefix Sum|
+|63|[unique-paths-ii](https://leetcode-cn.com/problems/unique-paths-ii)|[Solution](path/unique_paths_ii.py) |Medium|Design, Array, Matrix, Prefix Sum|
 
 
 
