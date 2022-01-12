@@ -183,6 +183,7 @@ If you like this project, please leave me a star. ★
 |304|[range-sum-query-2d-immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable)|[Solution](search/range_sum_query_2d_immutable.py) |Medium|Design, Array, Matrix, Prefix Sum|
 |63|[unique-paths-ii](https://leetcode-cn.com/problems/unique-paths-ii)|[Solution](path/unique_paths_ii.py) |Medium|Array, Dynamic Programming, Matrix|
 |221|[maximal-square](https://leetcode-cn.com/problems/maximal-square)|[Solution](smath/maximal_square.py) |Medium|Array, Dynamic Programming, Matrix|
+|516|[longest-palindromic-subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence)|[Solution](subseq/longest_palindromic_subsequence.py) |Medium|String, Dynamic Programming|
 
 
 
