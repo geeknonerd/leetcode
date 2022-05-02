@@ -185,6 +185,7 @@ If you like this project, please leave me a star. ★
 |221|[maximal-square](https://leetcode-cn.com/problems/maximal-square)|[Solution](smath/maximal_square.py) |Medium|Array, Dynamic Programming, Matrix|
 |516|[longest-palindromic-subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence)|[Solution](subseq/longest_palindromic_subsequence.py) |Medium|String, Dynamic Programming|
 |518|[coin-change-2](https://leetcode-cn.com/problems/coin-change-2)|[Solution](subseq/coin_change_2.py) |Medium|Array, Dynamic Programming|
+|9|[palindrome-number](https://leetcode-cn.com/problems/palindrome-number/)|[Solution](smath/palindrome_number.py) |Easy|Math|
 
 
 
