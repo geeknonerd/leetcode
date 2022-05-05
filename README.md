@@ -187,6 +187,7 @@ If you like this project, please leave me a star. ★
 |518|[coin-change-2](https://leetcode-cn.com/problems/coin-change-2)|[Solution](subseq/coin_change_2.py) |Medium|Array, Dynamic Programming|
 |9|[palindrome-number](https://leetcode-cn.com/problems/palindrome-number/)|[Solution](smath/palindrome_number.py) |Easy|Math|
 |13|[roman-to-integer](https://leetcode-cn.com/problems/roman-to-integer/)|[Solution](smath/roman_to_integer.py) |Easy|Hash Table, Math, String|
+|14|[longest-common-prefix](https://leetcode-cn.com/problems/longest-common-prefix/)|[Solution](search/longest_common_prefix.py) |Easy|String|
 
 
 
