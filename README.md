@@ -188,6 +188,7 @@ If you like this project, please leave me a star. ★
 |9|[palindrome-number](https://leetcode-cn.com/problems/palindrome-number/)|[Solution](smath/palindrome_number.py) |Easy|Math|
 |13|[roman-to-integer](https://leetcode-cn.com/problems/roman-to-integer/)|[Solution](smath/roman_to_integer.py) |Easy|Hash Table, Math, String|
 |14|[longest-common-prefix](https://leetcode-cn.com/problems/longest-common-prefix/)|[Solution](search/longest_common_prefix.py) |Easy|String|
+|26|[remove-duplicates-from-sorted-array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[Solution](search/remove_duplicates_from_sorted_array.py) |Easy|Array, Two Pointers|
 
 
 
