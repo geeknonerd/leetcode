@@ -190,6 +190,7 @@ If you like this project, please leave me a star. ★
 |14|[longest-common-prefix](https://leetcode-cn.com/problems/longest-common-prefix/)|[Solution](search/longest_common_prefix.py) |Easy|String|
 |26|[remove-duplicates-from-sorted-array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[Solution](search/remove_duplicates_from_sorted_array.py) |Easy|Array, Two Pointers|
 |27|[remove-element](https://leetcode-cn.com/problems/remove-element/)|[Solution](search/remove_element.py) |Easy|Array, Two Pointers|
+|28|[implement-strstr](https://leetcode-cn.com/problems/implement-strstr/)|[Solution](search/implement_strstr.py) |Easy|Two Pointers, String, String Matching|
 
 
 
