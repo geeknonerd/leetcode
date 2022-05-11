@@ -191,6 +191,7 @@ If you like this project, please leave me a star. ★
 |26|[remove-duplicates-from-sorted-array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[Solution](search/remove_duplicates_from_sorted_array.py) |Easy|Array, Two Pointers|
 |27|[remove-element](https://leetcode-cn.com/problems/remove-element/)|[Solution](search/remove_element.py) |Easy|Array, Two Pointers|
 |28|[implement-strstr](https://leetcode-cn.com/problems/implement-strstr/)|[Solution](search/implement_strstr.py) |Easy|Two Pointers, String, String Matching|
+|58|[length-of-last-word](https://leetcode-cn.com/problems/length-of-last-word/)|[Solution](smath/length_of_last_word.py) |Easy|String|
 
 
 
