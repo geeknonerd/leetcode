@@ -194,6 +194,7 @@ If you like this project, please leave me a star. ★
 |58|[length-of-last-word](https://leetcode-cn.com/problems/length-of-last-word/)|[Solution](smath/length_of_last_word.py) |Easy|String|
 |66|[plus-one](https://leetcode-cn.com/problems/plus-one/)|[Solution](smath/plus_one.py) |Easy|Array, Math|
 |67|[add-binary](https://leetcode-cn.com/problems/add-binary/)|[Solution](smath/add_binary.py) |Easy|Bit Manipulation, Math, String, Simulation|
+|69|[sqrtx](https://leetcode-cn.com/problems/sqrtx/)|[Solution](smath/sqrtx.py) |Easy|Math, Binary Search|
 
 
 
