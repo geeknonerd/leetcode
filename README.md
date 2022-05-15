@@ -195,6 +195,7 @@ If you like this project, please leave me a star. ★
 |66|[plus-one](https://leetcode-cn.com/problems/plus-one/)|[Solution](smath/plus_one.py) |Easy|Array, Math|
 |67|[add-binary](https://leetcode-cn.com/problems/add-binary/)|[Solution](smath/add_binary.py) |Easy|Bit Manipulation, Math, String, Simulation|
 |69|[sqrtx](https://leetcode-cn.com/problems/sqrtx/)|[Solution](smath/sqrtx.py) |Easy|Math, Binary Search|
+|100|[same-tree](https://leetcode-cn.com/problems/same-tree/)|[Solution](search/same_tree.py) |Easy|Tree, DFS, BFS, Binary Tree|
 
 
 
