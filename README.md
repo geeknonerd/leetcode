@@ -196,6 +196,7 @@ If you like this project, please leave me a star. ★
 |67|[add-binary](https://leetcode-cn.com/problems/add-binary/)|[Solution](smath/add_binary.py) |Easy|Bit Manipulation, Math, String, Simulation|
 |69|[sqrtx](https://leetcode-cn.com/problems/sqrtx/)|[Solution](smath/sqrtx.py) |Easy|Math, Binary Search|
 |100|[same-tree](https://leetcode-cn.com/problems/same-tree/)|[Solution](search/same_tree.py) |Easy|Tree, DFS, BFS, Binary Tree|
+|110|[balanced-binary-tree](https://leetcode-cn.com/problems/balanced-binary-tree/)|[Solution](smath/balanced_binary_tree.py) |Easy|Tree, DFS, Binary Tree|
 
 
 
