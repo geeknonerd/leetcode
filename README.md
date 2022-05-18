@@ -198,6 +198,7 @@ If you like this project, please leave me a star. ★
 |100|[same-tree](https://leetcode-cn.com/problems/same-tree/)|[Solution](search/same_tree.py) |Easy|Tree, DFS, BFS, Binary Tree|
 |110|[balanced-binary-tree](https://leetcode-cn.com/problems/balanced-binary-tree/)|[Solution](smath/balanced_binary_tree.py) |Easy|Tree, DFS, Binary Tree|
 |111|[minimum-depth-of-binary-tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)|[Solution](smath/minimum_depth_of_binary_tree.py) |Easy|Tree, DFS, BFS, Binary Tree|
+|125|[valid-palindrome](https://leetcode-cn.com/problems/valid-palindrome/)|[Solution](valid/valid_palindrome.py) |Easy|Two Pointers, String|
 
 
 
