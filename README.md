@@ -202,6 +202,7 @@ If you like this project, please leave me a star. ★
 |168|[excel-sheet-column-title](https://leetcode-cn.com/problems/excel-sheet-column-title/)|[Solution](smath/excel_sheet_column_title.py) |Easy|Math, String|
 |171|[excel-sheet-column-number](https://leetcode-cn.com/problems/excel-sheet-column-number/)|[Solution](smath/excel_sheet_column_number.py) |Easy|Math, String|
 |175|[combine-two-tables](https://leetcode-cn.com/problems/combine-two-tables/)|[Solution](db/combine_two_tables.sql) |Easy|Database|
+|205|[isomorphic-strings](https://leetcode-cn.com/problems/isomorphic-strings/)|[Solution](smath/isomorphic_strings.py) |Easy|Hash Table, String|
 
 
 
