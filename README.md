@@ -204,6 +204,7 @@ If you like this project, please leave me a star. ★
 |175|[combine-two-tables](https://leetcode-cn.com/problems/combine-two-tables/)|[Solution](db/combine_two_tables.sql) |Easy|Database|
 |205|[isomorphic-strings](https://leetcode-cn.com/problems/isomorphic-strings/)|[Solution](smath/isomorphic_strings.py) |Easy|Hash Table, String|
 |219|[contains-duplicate-ii](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[Solution](search/contains_duplicate_ii.py) |Easy|Array, Hash Table, Sliding Window|
+|225|[implement-stack-using-queues](https://leetcode-cn.com/problems/implement-stack-using-queues/)|[Solution](implement/implement_stack_using_queues.py) |Easy|Stack, Design, Queue|
 
 
 
