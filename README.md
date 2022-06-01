@@ -209,6 +209,7 @@ If you like this project, please leave me a star. ★
 | 228  | [summary-ranges](https://leetcode-cn.com/problems/summary-ranges/)                                                                                      | [Solution](search/summary_ranges.py)                                           | Easy       | Array                                                 |
 | 234  | [palindrome-linked-list](https://leetcode-cn.com/problems/palindrome-linked-list/)                                                                      | [Solution](search/palindrome_linked_list.py)                                   | Easy       | Stack, Recursion, Linked List, Two Pointers           |
 | 237  | [delete-node-in-a-linked-list](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)                                                          | [Solution](search/delete_node_in_a_linked_list.py)                             | Easy       | Linked List                                           |
+| 257  | [binary-tree-paths](https://leetcode-cn.com/problems/binary-tree-paths/)                                                                                | [Solution](path/binary_tree_paths.py)                                          | Easy       | Tree, DFS, String, Backtracking, Binary Tree          |
 
 ## Thanks
 
