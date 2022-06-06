@@ -211,6 +211,7 @@ If you like this project, please leave me a star. ★
 | 237  | [delete-node-in-a-linked-list](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)                                                          | [Solution](search/delete_node_in_a_linked_list.py)                             | Easy       | Linked List                                           |
 | 257  | [binary-tree-paths](https://leetcode-cn.com/problems/binary-tree-paths/)                                                                                | [Solution](path/binary_tree_paths.py)                                          | Easy       | Tree, DFS, String, Backtracking, Binary Tree          |
 | 258  | [add-digits](https://leetcode-cn.com/problems/add-digits/)                                                                                              | [Solution](add/add_digits.py)                                                  | Easy       | Match, Number Theory, Simulation                      |
+| 263  | [ugly-number](https://leetcode-cn.com/problems/ugly-number/)                                                                                            | [Solution](smath/ugly_number.py)                                               | Easy       | Math                                                  |
 
 ## Thanks
 
