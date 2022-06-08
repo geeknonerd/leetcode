@@ -213,6 +213,7 @@ If you like this project, please leave me a star. ★
 | 258  | [add-digits](https://leetcode-cn.com/problems/add-digits/)                                                                                              | [Solution](add/add_digits.py)                                                  | Easy       | Match, Number Theory, Simulation                      |
 | 263  | [ugly-number](https://leetcode-cn.com/problems/ugly-number/)                                                                                            | [Solution](smath/ugly_number.py)                                               | Easy       | Math                                                  |
 | 268  | [missing-number](https://leetcode-cn.com/problems/missing-number/)                                                                                      | [Solution](smath/missing_number.py)                                            | Easy       | Bit Manipulation, Array, Hash Table, Math, Sorting    |
+| 292  | [nim-game](https://leetcode-cn.com/problems/nim-game/)                                                                                                  | [Solution](smath/nim_game.py)                                                  | Easy       | Brainteaser, Math, Game Theory                        |
 
 ## Thanks
 
