@@ -215,6 +215,7 @@ If you like this project, please leave me a star. ★
 | 268  | [missing-number](https://leetcode-cn.com/problems/missing-number/)                                                                                      | [Solution](smath/missing_number.py)                                            | Easy       | Bit Manipulation, Array, Hash Table, Math, Sorting    |
 | 292  | [nim-game](https://leetcode-cn.com/problems/nim-game/)                                                                                                  | [Solution](smath/nim_game.py)                                                  | Easy       | Brainteaser, Math, Game Theory                        |
 | 303  | [range-sum-query-immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)                                                                | [Solution](design/range_sum_query_immutable.py)                                | Easy       | Design, Array, Prefix Sum                             |
+| 326  | [power-of-three](https://leetcode-cn.com/problems/power-of-three/)                                                                                      | [Solution](smath/power_of_three.py)                                            | Easy       | Recursion, Math                                       |
 
 ## Thanks
 
