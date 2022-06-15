@@ -217,6 +217,7 @@ If you like this project, please leave me a star. ★
 | 303  | [range-sum-query-immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)                                                                | [Solution](design/range_sum_query_immutable.py)                                | Easy       | Design, Array, Prefix Sum                             |
 | 326  | [power-of-three](https://leetcode-cn.com/problems/power-of-three/)                                                                                      | [Solution](smath/power_of_three.py)                                            | Easy       | Recursion, Math                                       |
 | 338  | [counting-bits](https://leetcode-cn.com/problems/counting-bits/)                                                                                        | [Solution](smath/counting_bits.py)                                             | Easy       | Bit Manipulation, Dynamic Programming                 |
+| 342  | [power-of-four](https://leetcode-cn.com/problems/power-of-four/)                                                                                        | [Solution](smath/power_of_four.py)                                             | Easy       | Bit Manipulation, Recursion, Math                     |
 
 ## Thanks
 
