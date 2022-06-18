@@ -218,6 +218,7 @@ If you like this project, please leave me a star. ★
 | 326  | [power-of-three](https://leetcode-cn.com/problems/power-of-three/)                                                                                      | [Solution](smath/power_of_three.py)                                            | Easy       | Recursion, Math                                       |
 | 338  | [counting-bits](https://leetcode-cn.com/problems/counting-bits/)                                                                                        | [Solution](smath/counting_bits.py)                                             | Easy       | Bit Manipulation, Dynamic Programming                 |
 | 342  | [power-of-four](https://leetcode-cn.com/problems/power-of-four/)                                                                                        | [Solution](smath/power_of_four.py)                                             | Easy       | Bit Manipulation, Recursion, Math                     |
+| 345  | [reverse-vowels-of-a-string](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)                                                              | [Solution](reverse/reverse_vowels_of_a_string.py)                              | Easy       | Two Pointers, String                                  |
 
 ## Thanks
 
