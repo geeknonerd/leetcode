@@ -224,6 +224,7 @@ If you like this project, please leave me a star. ★
 | 374  | [guess-number-higher-or-lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)                                                          | [Solution](guess/guess_number_higher_or_lower.py)                              | Easy       | Binary Search, interactive                              |
 | 389  | [find-the-difference](https://leetcode-cn.com/problems/find-the-difference/)                                                                            | [Solution](find/find_the_difference.py)                                        | Easy       | Bit Manipulation, Hash Table, String, Sorting           |
 | 401  | [binary-watch](https://leetcode-cn.com/problems/binary-watch/)                                                                                          | [Solution](smath/binary_watch.py)                                              | Easy       | Bit Manipulation, Backtracking                          |
+| 404  | [sum-of-left-leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/)                                                                              | [Solution](smath/sum_of_left_leaves.py)                                        | Easy       | Tree, DFS, BFS, Binary Tree                             |
 
 ## Thanks
 
