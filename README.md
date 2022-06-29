@@ -226,6 +226,7 @@ If you like this project, please leave me a star. ★
 | 401  | [binary-watch](https://leetcode-cn.com/problems/binary-watch/)                                                                                          | [Solution](smath/binary_watch.py)                                              | Easy       | Bit Manipulation, Backtracking                          |
 | 404  | [sum-of-left-leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/)                                                                              | [Solution](smath/sum_of_left_leaves.py)                                        | Easy       | Tree, DFS, BFS, Binary Tree                             |
 | 405  | [convert-a-number-to-hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)                                                    | [Solution](smath/convert_a_number_to_hexadecimal.py)                           | Easy       | Bit Manipulation, Math                                  |
+| 412  | [fizz-buzz](https://leetcode-cn.com/problems/fizz-buzz/)                                                                                                | [Solution](smath/fizz_buzz.py)                                                 | Easy       | Math, String, Simulation                                |
 
 ## Thanks
 
