@@ -227,6 +227,7 @@ If you like this project, please leave me a star. ★
 | 404  | [sum-of-left-leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/)                                                                              | [Solution](smath/sum_of_left_leaves.py)                                        | Easy       | Tree, DFS, BFS, Binary Tree                             |
 | 405  | [convert-a-number-to-hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)                                                    | [Solution](smath/convert_a_number_to_hexadecimal.py)                           | Easy       | Bit Manipulation, Math                                  |
 | 412  | [fizz-buzz](https://leetcode-cn.com/problems/fizz-buzz/)                                                                                                | [Solution](smath/fizz_buzz.py)                                                 | Easy       | Math, String, Simulation                                |
+| 414  | [third-maximum-number](https://leetcode-cn.com/problems/third-maximum-number/)                                                                          | [Solution](sort/third_maximum_number.py)                                       | Easy       | Array, Sorting                                          |
 
 ## Thanks
 
