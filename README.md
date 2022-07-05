@@ -230,6 +230,7 @@ If you like this project, please leave me a star. ★
 | 414  | [third-maximum-number](https://leetcode-cn.com/problems/third-maximum-number/)                                                                          | [Solution](sort/third_maximum_number.py)                                       | Easy       | Array, Sorting                                          |
 | 434  | [number-of-segments-in-a-string](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)                                                      | [Solution](add/number_of_segments_in_a_string.py)                              | Easy       | String                                                  |
 | 441  | [arranging-coins](https://leetcode-cn.com/problems/arranging-coins/)                                                                                    | [Solution](search/arranging_coins.py)                                          | Easy       | Math, Binary Search                                     |
+| 448  | [find-all-numbers-disappeared-in-an-array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)                                  | [Solution](find/find_all_numbers_disappeared_in_an_array.py)                   | Easy       | Array, Hash Table                                       |
 
 ## Thanks
 
