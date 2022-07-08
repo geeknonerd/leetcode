@@ -233,6 +233,7 @@ If you like this project, please leave me a star. ★
 | 448  | [find-all-numbers-disappeared-in-an-array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)                                  | [Solution](find/find_all_numbers_disappeared_in_an_array.py)                   | Easy       | Array, Hash Table                                       |
 | 453  | [minimum-moves-to-equal-array-elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)                                        | [Solution](move/minimum_moves_to_equal_array_elements.py)                      | Easy       | Array, Math                                             |
 | 455  | [assign-cookies](https://leetcode-cn.com/problems/assign-cookies/)                                                                                      | [Solution](sort/assign_cookies.py)                                             | Easy       | Greedy, Array, Sorting                                  |
+| 459  | [repeated-substring-pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/)                                                              | [Solution](match/repeated_substring_pattern.py)                                | Easy       | String, String Matching                                 |
 
 ## Thanks
 
