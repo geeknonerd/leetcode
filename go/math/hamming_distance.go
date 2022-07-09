@@ -1,4 +1,4 @@
-"""
+/*
 461. 汉明距离
 位运算
 简单
@@ -8,7 +8,7 @@
 
 给你两个整数 x 和 y，计算并返回它们之间的汉明距离。
 
- 
+
 
 示例 1：
 
@@ -23,33 +23,42 @@
 
 输入：x = 3, y = 1
 输出：1
- 
+
 
 提示：
 
-0 <= x, y <= 231 - 1
+0 <= x, y <= 2^31 - 1
 
 来源：力扣（LeetCode）
 链接：https://leetcode.cn/problems/hamming-distance
-"""
+*/
+package main
 
+import (
+	"log"
+	"strconv"
+)
 
-class Solution:
-    def hammingDistance(self, x: int, y: int) -> int:
-        res = 0
-        for b in bin(x ^ y).lstrip('0b'):
-            if b == '1':
-                res += 1
-        return res
+func hammingDistance(x int, y int) int {
+	binStr := strconv.FormatInt(int64(x^y), 2)
+	sum := 0
+	for _, c := range binStr {
+		if c == '1' {
+			sum++
+		}
+	}
+	return sum
+}
 
+func assert(x int, y int) {
+	if x != y {
+		log.Fatalf("assert err: %v != %v\n", x, y)
+	} else {
+		log.Println("assert ok")
+	}
+}
 
-if __name__ == '__main__':
-    solution = Solution()
-
-    result = solution.hammingDistance(1, 4)
-    print(result)
-    assert result == 2
-
-    result = solution.hammingDistance(3, 1)
-    print(result)
-    assert result == 1
+func main() {
+	assert(hammingDistance(1, 4), 2)
+	assert(hammingDistance(3, 1), 1)
+}

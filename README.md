@@ -234,7 +234,7 @@ If you like this project, please leave me a star. ★
 | 453  | [minimum-moves-to-equal-array-elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)                                        | [Solution](move/minimum_moves_to_equal_array_elements.py)                      | Easy       | Array, Math                                             |
 | 455  | [assign-cookies](https://leetcode-cn.com/problems/assign-cookies/)                                                                                      | [Solution](sort/assign_cookies.py)                                             | Easy       | Greedy, Array, Sorting                                  |
 | 459  | [repeated-substring-pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/)                                                              | [Solution](match/repeated_substring_pattern.py)                                | Easy       | String, String Matching                                 |
-| 461  | [hamming-distance](https://leetcode-cn.com/problems/hamming-distance/)                                                                                  | [Solution](match/hamming_distance.py)                                          | Easy       | Bit Manipulation                                        |
+| 461  | [hamming-distance](https://leetcode-cn.com/problems/hamming-distance/)                                                                                  | [Python](smath/hamming_distance.py),[Go](go/math/hamming_distance.go)          | Easy       | Bit Manipulation                                        |
 
 ## Thanks
 
