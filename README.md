@@ -239,6 +239,7 @@ If you like this project, please leave me a star. ★
 | 476  | [number-complement](https://leetcode-cn.com/problems/number-complement/)                                                                                | [Python](bit/number_complement.py)                                             | Easy       | Bit Manipulation                                        |
 | 482  | [license-key-formatting](https://leetcode-cn.com/problems/license-key-formatting/)                                                                      | [Python](convert/license_key_formatting.py)                                    | Easy       | String                                                  |
 | 485  | [max-consecutive-ones](https://leetcode-cn.com/problems/max-consecutive-ones/)                                                                          | [Python](smath/max_consecutive_ones.py)                                        | Easy       | Array                                                   |
+| 496  | [next-greater-element-i](https://leetcode-cn.com/problems/next-greater-element-i/)                                                                      | [Python](traversal/next_greater_element_i.py)                                  | Easy       | Stack, Array, Hash Table, Monotonic Stack               |
 
 ## Thanks
 
