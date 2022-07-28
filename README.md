@@ -242,6 +242,7 @@ If you like this project, please leave me a star. ★
 | 496  | [next-greater-element-i](https://leetcode-cn.com/problems/next-greater-element-i/)                                                                      | [Python](traversal/next_greater_element_i.py)                                  | Easy       | Stack, Array, Hash Table, Monotonic Stack               |
 | 492  | [construct-the-rectangle](https://leetcode-cn.com/problems/construct-the-rectangle/)                                                                    | [Python](smath/construct_the_rectangle.py)                                     | Easy       | Math                                                    |
 | 495  | [teemo-attacking](https://leetcode-cn.com/problems/teemo-attacking/)                                                                                    | [Python](smath/teemo_attacking.py)                                             | Easy       | Array, Simulation                                       |
+| 500  | [keyboard-row](https://leetcode-cn.com/problems/keyboard-row/)                                                                                          | [Go](go/contain/keyboard_row.go)                                               | Easy       | Array, Hash Table, String                               |
 
 ## Thanks
 
