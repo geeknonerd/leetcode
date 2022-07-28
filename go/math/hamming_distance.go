@@ -35,7 +35,7 @@
 package main
 
 import (
-	"log"
+	"leetcode/go/utils"
 	"strconv"
 )
 
@@ -50,15 +50,7 @@ func hammingDistance(x int, y int) int {
 	return sum
 }
 
-func assert(x int, y int) {
-	if x != y {
-		log.Fatalf("assert err: %v != %v\n", x, y)
-	} else {
-		log.Println("assert ok")
-	}
-}
-
 func main() {
-	assert(hammingDistance(1, 4), 2)
-	assert(hammingDistance(3, 1), 1)
+	utils.Assert(hammingDistance(1, 4), 2)
+	utils.Assert(hammingDistance(3, 1), 1)
 }
