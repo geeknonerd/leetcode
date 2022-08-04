@@ -243,6 +243,7 @@ If you like this project, please leave me a star. ★
 | 492  | [construct-the-rectangle](https://leetcode-cn.com/problems/construct-the-rectangle/)                                                                    | [Python](smath/construct_the_rectangle.py)                                                 | Easy       | Math                                                    |
 | 495  | [teemo-attacking](https://leetcode-cn.com/problems/teemo-attacking/)                                                                                    | [Python](smath/teemo_attacking.py)                                                         | Easy       | Array, Simulation                                       |
 | 500  | [keyboard-row](https://leetcode-cn.com/problems/keyboard-row/)                                                                                          | [Go](go/contain/keyboard_row.go)                                                           | Easy       | Array, Hash Table, String                               |
+| 501  | [find-mode-in-binary-search-tree](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)                                                    | [Python](traversal/find_mode_in_binary_search_tree.py)                                     | Easy       | Tree, DFS, Binary Search Tree, Binary Tree              |
 
 ## Thanks
 
