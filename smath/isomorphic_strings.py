@@ -28,7 +28,7 @@
 
 提示：
 
-1 <= s.length <= 5 * 104
+1 <= s.length <= 5 * 10^4
 t.length == s.length
 s 和 t 由任意有效的 ASCII 字符组成
 
