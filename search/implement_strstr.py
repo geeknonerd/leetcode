@@ -34,7 +34,7 @@
 
 提示：
 
-1 <= haystack.length, needle.length <= 104
+1 <= haystack.length, needle.length <= 10^4
 haystack 和 needle 仅由小写英文字符组成
 
 来源：力扣（LeetCode）
