@@ -1,4 +1,4 @@
-"""
+/*
 26. 删除有序数组中的重复项
 数组 双指针
 简单
@@ -27,7 +27,7 @@ for (int i = 0; i < k; i++) {
 }
 如果所有断言都通过，那么您的题解将被 通过。
 
- 
+
 
 示例 1：
 
@@ -39,7 +39,7 @@ for (int i = 0; i < k; i++) {
 输入：nums = [0,0,1,1,1,2,2,3,3,4]
 输出：5, nums = [0,1,2,3,4]
 解释：函数应该返回新的长度 5 ， 并且原数组 nums 的前五个元素被修改为 0, 1, 2, 3, 4 。不需要考虑数组中超出新长度后面的元素。
- 
+
 
 提示：
 
@@ -49,35 +49,40 @@ nums 已按 升序 排列
 
 来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array
-"""
-from typing import List
+*/
+package main
 
+import (
+	"leetcode/go/utils"
+)
 
-class Solution:
-    def removeDuplicates(self, nums: List[int]) -> int:
-        pre = -10001
-        unique_list = []
-        for i in range(len(nums)):
-            n = nums[i]
-            if n != pre:
-                unique_list.append(n)
-            pre = n
-        for j in range(len(unique_list)):
-            nums[j] = unique_list[j]
-        return len(unique_list)
+func removeDuplicates(nums []int) int {
+	var uniNums []int
+	pre := -10001
+	for _, v := range nums {
+		if v != pre {
+			uniNums = append(uniNums, v)
+		}
+		pre = v
+	}
+	size := 0
+	for i, v := range uniNums {
+		nums[i] = v
+		size++
+	}
+	return size
+}
 
+func main() {
+	var oriNums []int
+	var newSize int
+	oriNums = []int{1, 1, 2}
+	newSize = removeDuplicates(oriNums)
+	utils.Assert(newSize, 2)
+	utils.Assert(oriNums[:newSize], []int{1, 2})
 
-if __name__ == '__main__':
-    solution = Solution()
-
-    num_list = [1, 1, 2]
-    result = solution.removeDuplicates(num_list)
-    print(result, num_list)
-    assert result == 2
-    assert num_list[:result] == [1, 2]
-
-    num_list = [0, 0, 1, 1, 1, 2, 2, 3, 3, 4]
-    result = solution.removeDuplicates(num_list)
-    print(result, num_list)
-    assert result == 5
-    assert num_list[:result] == [0, 1, 2, 3, 4]
+	oriNums = []int{0, 0, 1, 1, 1, 2, 2, 3, 3, 4}
+	newSize = removeDuplicates(oriNums)
+	utils.Assert(newSize, 5)
+	utils.Assert(oriNums[:newSize], []int{0, 1, 2, 3, 4})
+}
